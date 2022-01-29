@@ -6,8 +6,8 @@ published: true
 
  
 ## **About Me**
-<p style="padding-left: 35px;"> I am a PhD candidate in Computer Science at [University of Virginia](https://www.virginia.edu/), advised by Professor [Hongning Wang](http://www.cs.virginia.edu/~hw5x/). My research focus is contextual bandits, with consideration of non-stationary reward distribution, collaborative learning, communication efficiency / privacy in distributed setting.
-Before joining UVa, I received my Bachelor degree in Mechanical Engineering and Master degree in Mechatronics Engineering from [Harbin Institute of Technology](http://en.hit.edu.cn/), where I worked on machine learning for prognostic health monitoring and robotics.</p>
+I am a PhD candidate in Computer Science at [University of Virginia](https://www.virginia.edu/), advised by Professor [Hongning Wang](http://www.cs.virginia.edu/~hw5x/). My research focus is contextual bandits, with consideration of non-stationary reward distribution, collaborative learning, communication efficiency / privacy in distributed setting.
+Before joining UVa, I received my Bachelor degree in Mechanical Engineering and Master degree in Mechatronics Engineering from [Harbin Institute of Technology](http://en.hit.edu.cn/), where I worked on machine learning for prognostic health monitoring and robotics.
 
 
 
@@ -18,6 +18,7 @@ Before joining UVa, I received my Bachelor degree in Mechanical Engineering and 
 - 10/09/2021: Received Carlos and Esther Farrar Fellowship Award
 - 04/14/2021: One paper is accepted by SIGIR 2021
 - 01/22/2021: One paper is accepted by AISTATS 2021
+
 <!-- ## **Research Interest**
 
 <p style="padding-left: 35px;">I am broadly interested in Machine Learning, Graph Mining and Multimodal Data Mining. In particular, my currently research includes Multi-task Learning, Few-shot Learning, Multimodal Learning for Vision and Natural Language Processing, and Federated Learning.</p>
