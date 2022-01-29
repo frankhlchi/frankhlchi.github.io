@@ -7,24 +7,50 @@ permalink: /publication/
 
 
 <a name="pub"></a>
-##  **Publication**
-<!-- [\[Google Scholar\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao) -->
+## **Publications & Preprints** [\[Google Scholar\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
 
-<!-- ### Since 2018 -->
-<!-- - [to appear] Asynchronous Upper Confidence Bound Algorithms for Federated Linear Bandits
-  - **Chuanhao Li**, Hongning Wang -->
-1. **Jiayi Chen**, Aidong Zhang. "TopoNet: Adaptive Topological Transduction for Hybrid Few-shot Learning". *Under review* 2021. 
-2. **Jiayi Chen**, Aidong Zhang. "HetMAML: Task-heterogeneous Model-agnostic Meta-learning for Few-shot Learning Across Modalities". ACM International Conference on Information and Knowledge Management (**CIKM**), 2021. (full paper) (acceptance rate: 271/1251=21.66%) [will appear]
-3. **Jiayi Chen**, Aidong Zhang. "HGMF: Heterogeneous Graph-based Fusion for Multimodal Data with Incompleteness". ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2020. (research track) (acceptance rate: 216/1279=16.89%) [[PDF](https://doi.org/10.1145/3394486.3403182)]
-4. **Jiayi Chen**, Xuguang Lan. "Context-guided deep alignment for image style transfer and 3d non-photorealistic rendering”, ArXiv, 2018. (technical report, project done in 2018) [[PDF]()]
-5. **Jiayi Chen**, Xuguang Lan, Meng Yang. "Efficient Detail-enhanced Exposure Correction based on Auto-fusion for LDR Image". 18th IEEE Multimedia Signal Processing (**MMSP**), 2016. [[PDF](https://ieeexplore.ieee.org/document/7813345)]
-6. Yinshu Zhang, **Jiayi Chen**, Xiangyu Si, Zhiqiang Tian, Xuguang Lan. "Image Artistic Style Transfer Based on Color Distribution Preprocessing". International Conference on Cognitive Systems and Information Processing (ICCSIP), 2018. [[PDF](https://doi.org/10.1007/978-981-13-7983-3_14)]
-7. Jiachen Yu, Jin Li, **Jiayi Chen**, Zhiqiang Tian, Xuguang Lan. "Multi-scale Neural Style Transfer Based on Deep Semantic Matching".  International Conference on Cognitive Systems and Information Processing (ICCSIP), 2018. [[PDF](https://doi.org/10.1007/978-981-13-7986-4_17)]
+### 2022
+- [to appear] Communication Efficient Federated Learning for Generalized Linear Bandits
+  - **Chuanhao Li**, Hongning Wang
+- [AAAI'22] Learning the Optimal Recommendation from Explorative Users
+  - Fan Yao, **Chuanhao Li**, Denis Nekipelov, Hongning Wang, Haifeng Xu
+  - [\[paper\]](https://arxiv.org/abs/2110.03068)
+- [AISTATS'22] Asynchronous Upper Confidence Bound Algorithms for Federated Linear Bandits
+  - **Chuanhao Li**, Hongning Wang
+  - [\[paper\]](https://arxiv.org/abs/2110.01463) [\[code\]](https://github.com/cyrilli/Async-LinUCB)
+ 
+### 2021
+- [arXiv'21] Incentivizing Exploration in Linear Bandits under Information Gap
+  - Huazheng Wang, Haifeng Xu, **Chuanhao Li**, Zhiyuan Liu, Hongning Wang
+  - [\[paper\]](https://arxiv.org/abs/2104.03860)
+- [SIGIR'21] When and Whom to Collaborate with in a Changing Environment: A Collaborative Dynamic Bandit Solution
+  - **Chuanhao Li**, Qingyun Wu, Hongning Wang
+  - [\[paper\]](https://dl.acm.org/doi/10.1145/3404835.3462852) [\[code\]](https://github.com/cyrilli/CoDBand)
+- [AISTATS'21] Unifying Clustered and Non-stationary Bandits
+  - **Chuanhao Li**, Qingyun Wu, Hongning Wang
+  - [\[paper\]](http://proceedings.mlr.press/v130/li21c) [\[code\]](https://github.com/cyrilli/DyClu)
+
+### Before 2018
+- [Mechanical Systems and Signal Processing] A deep convolutional neural network with new training methods for bearing fault diagnosis under noisy environment and different working load
+  - Wei Zhang, **Chuanhao Li**, Gaoliang Peng, Yuanhang Chen, Zhujun Zhang
+  - [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0888327017303369)
+- [Neurocomputing] ACDIN: Bridging the gap between artificial and real bearing damages for bearing fault diagnosis
+  - Yuanhang Chen, Gaoliang Peng, Chaohao Xie, Wei Zhang, **Chuanhao Li**, Shaohui Liu
+  - [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S092523121830300X)
+- [IEEE Access] Bearing fault diagnosis using fully-connected winner-take-all autoencoder
+  - **Chuanhao Li**, Wei Zhang, Gaoliang Peng, Shaohui Liu
+  - [\[paper\]](https://ieeexplore.ieee.org/abstract/document/7956142) [\[code\]](https://github.com/cyrilli/FCWTA_AE)
+- [Sensors] A new deep learning model for fault diagnosis with good anti-noise and domain adaptation ability on raw vibration signals
+  - Wei Zhang, Gaoliang Peng, **Chuanhao Li**, Yuanhang Chen, Zhujun Zhang
+  - [\[paper\]](https://www.mdpi.com/1424-8220/17/2/425)
+- [IIH-MSP'16] Rolling element bearings fault intelligent diagnosis based on convolutional neural networks using raw sensing signal
+  - Wei Zhang, Gaoliang Peng, **Chuanhao Li**
+  - [\[paper\]](https://link.springer.com/chapter/10.1007/978-3-319-50212-0_10)
+- [ICMME'16] Bearings fault diagnosis based on convolutional neural networks with 2-D representation of vibration signals as input
+  - Wei Zhang, Gaoliang Peng, **Chuanhao Li**
+  - [\[paper\]](https://www.matec-conferences.org/articles/matecconf/abs/2017/09/matecconf_icmme2017_13001/matecconf_icmme2017_13001.html)
 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
-
-
-*Back to [CV](/CV#pub).*
 
 <!-- *Go to [Homepage](/#proj).* -->

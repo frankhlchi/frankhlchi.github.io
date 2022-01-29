@@ -30,5 +30,5 @@ Before joining UVa, I received my Bachelor degree in Mechanical Engineering and 
 
 <!-- ## More -->
 <div style="margin-top: 32px;margin-bottom: 12px;"> </div>
-<p style="font-size: 20px;font-weight: bold;"> *More about me: <a href="{{ site.baseurl }}/CV"> Curriculum Vitae</a></p>
+<p style="font-size: 20px;font-weight: bold;"> *More about me: <a href="https://cyrilli.github.io/CV.pdf"> Curriculum Vitae</a></p>
 
