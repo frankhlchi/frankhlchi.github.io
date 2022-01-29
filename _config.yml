@@ -3,16 +3,16 @@
 #
 
 # Name of your site (displayed in the header)
-name: Jiayi Chen
+name: Chuanhao Li
 
 # Short bio or description (displayed in the header)
 description: Ph.D. Candidate in Computer Science @ University of Virginia
 
 department: Department of Computer Science, University of Virginia
 institution: University of Virginia
-email: jc4td at virginia.edu
+email: cl5ev at virginia.edu
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://jia-yi-chen.github.io/images/icon2.jpg
+avatar: https://cyrilli.github.io/images/portrait_photo.png
 #
 # Flags below are optional
 #
@@ -23,10 +23,10 @@ footer-links:
   email: 
   facebook:
   flickr:
-  github: jia-yi-chen
-  dblp: jia-yi-chen
+  github: cyrilli
+  dblp:
   instagram:
-  linkedin: jychen233
+  linkedin: chuanhao-li-259281107
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -44,7 +44,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://jia-yi-chen.github.io
+url: http://cyrilli.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
