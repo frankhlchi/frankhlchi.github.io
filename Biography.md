@@ -30,6 +30,7 @@ permalink: /biography/
   - Reinforcement Learning (Grad), UVA, Fall 2020
   - Software Analysis and Applications (Grad), UVA, Spring 2020
   - Data Structures and Algorithms I (Undergrad), UVA, Fall 2019
+
 ## **Awards**
   - Carlos and Esther Farrar Fellowship Award, UVA, 2021
   - Academic Award for Grad Student, HIT, 2016
