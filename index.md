@@ -15,6 +15,7 @@ Before joining UVa, I received my Bachelor degree in Mechanical Engineering and 
 
 ## **News**
 - 01/18/2022: One paper is accepted by AISTATS 2022
+- 12/01/2021: One paper is accepted by AAAI 2022
 - 10/09/2021: Received Carlos and Esther Farrar Fellowship Award
 - 04/14/2021: One paper is accepted by SIGIR 2021
 - 01/22/2021: One paper is accepted by AISTATS 2021
