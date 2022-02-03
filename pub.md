@@ -10,8 +10,9 @@ permalink: /publication/
 ## **Publications & Preprints** [\[Google Scholar\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
 
 ### 2022
-- [to appear] Communication Efficient Federated Learning for Generalized Linear Bandits
+- [arXiv'22] Communication Efficient Federated Learning for Generalized Linear Bandits
   - **Chuanhao Li**, Hongning Wang
+  - [\[paper\]](https://arxiv.org/abs/2202.01087) [\[code\]](https://github.com/cyrilli/FedGLB-UCB)
 - [AAAI'22] Learning the Optimal Recommendation from Explorative Users
   - Fan Yao, **Chuanhao Li**, Denis Nekipelov, Hongning Wang, Haifeng Xu
   - [\[paper\]](https://arxiv.org/abs/2110.03068)
