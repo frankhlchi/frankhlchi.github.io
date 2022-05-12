@@ -25,11 +25,12 @@ permalink: /biography/
   - KDD 2020
 - Journal Reviewer: 
   - IEEE Transactions on Systems, Man and Cybernetics: Systems (SMCA)
+  - ACM Transactions on Intelligent Systems and Technology (TIST)
 
 ## **Teaching**
-  - Reinforcement Learning (Grad), UVA, Fall 2020
-  - Software Analysis and Applications (Grad), UVA, Spring 2020
-  - Data Structures and Algorithms I (Undergrad), UVA, Fall 2019
+  - TA, Reinforcement Learning (Grad), UVA, Fall 2020
+  - TA, Software Analysis and Applications (Grad), UVA, Spring 2020
+  - TA, Data Structures and Algorithms I (Undergrad), UVA, Fall 2019
 
 ## **Awards**
   - Carlos and Esther Farrar Fellowship Award, UVA, 2021
