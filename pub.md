@@ -9,13 +9,18 @@ permalink: /publication/
 <a name="pub"></a>
 ## **Publications & Preprints** [\[Google Scholar\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
 
-### 2022
-- [arXiv'22] Learning from a Learning User for Optimal Recommendations
-  - Fan Yao, **Chuanhao Li**, Denis Nekipelov, Hongning Wang, Haifeng Xu
-  - [\[paper\]](https://arxiv.org/abs/2202.01879)
+### Preprints
 - [arXiv'22] Communication Efficient Federated Learning for Generalized Linear Bandits
   - **Chuanhao Li**, Hongning Wang
   - [\[paper\]](https://arxiv.org/abs/2202.01087) [\[code\]](https://github.com/cyrilli/FedGLB-UCB)
+- [arXiv'21] Incentivizing Exploration in Linear Bandits under Information Gap
+  - Huazheng Wang, Haifeng Xu, **Chuanhao Li**, Zhiyuan Liu, Hongning Wang
+  - [\[paper\]](https://arxiv.org/abs/2104.03860)
+
+### 2022
+- [ICML'22] Learning from a Learning User for Optimal Recommendations
+  - Fan Yao, **Chuanhao Li**, Denis Nekipelov, Hongning Wang, Haifeng Xu
+  - [\[paper\]](https://arxiv.org/abs/2202.01879)
 - [AAAI'22] Learning the Optimal Recommendation from Explorative Users
   - Fan Yao, **Chuanhao Li**, Denis Nekipelov, Hongning Wang, Haifeng Xu
   - [\[paper\]](https://arxiv.org/abs/2110.03068)
@@ -24,9 +29,6 @@ permalink: /publication/
   - [\[paper\]](https://arxiv.org/abs/2110.01463) [\[code\]](https://github.com/cyrilli/Async-LinUCB)
  
 ### 2021
-- [arXiv'21] Incentivizing Exploration in Linear Bandits under Information Gap
-  - Huazheng Wang, Haifeng Xu, **Chuanhao Li**, Zhiyuan Liu, Hongning Wang
-  - [\[paper\]](https://arxiv.org/abs/2104.03860)
 - [SIGIR'21] When and Whom to Collaborate with in a Changing Environment: A Collaborative Dynamic Bandit Solution
   - **Chuanhao Li**, Qingyun Wu, Hongning Wang
   - [\[paper\]](https://dl.acm.org/doi/10.1145/3404835.3462852) [\[code\]](https://github.com/cyrilli/CoDBand)
