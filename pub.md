@@ -10,8 +10,9 @@ permalink: /publication/
 ## **Publications & Preprints** [\[Google Scholar\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
 
 ### Preprints
-- [to appear] Communication Efficient Distributed Learning for Kernelized Contextual Bandits
+- [arXiv'22] Communication Efficient Distributed Learning for Kernelized Contextual Bandits
   - **Chuanhao Li**, Huazheng Wang, Mengdi Wang, Hongning Wang
+  - [\[paper\]](https://arxiv.org/abs/2206.04835)
 - [arXiv'22] Communication Efficient Federated Learning for Generalized Linear Bandits
   - **Chuanhao Li**, Hongning Wang
   - [\[paper\]](https://arxiv.org/abs/2202.01087) [\[code\]](https://github.com/cyrilli/FedGLB-UCB)
