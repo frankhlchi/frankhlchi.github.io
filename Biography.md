@@ -5,11 +5,11 @@ permalink: /biography/
 ---
 
 
-## **Education**
+<!-- ## **Education**
 - **Ph.D.** in Computer Science @ [Univerisity of Virginia](https://engineering.virginia.edu/departments/computer-science) (2018-Present) 
 - **M.S.** in Mechatronics Engineering @ [Harbin Institute of Technology](http://en.hit.edu.cn/) (2016-2018)
 - **B.S.** in Mechanical Engineering & **B.A.** in English @ [Harbin Institute of Technology](http://en.hit.edu.cn/) (2012-2016)
-- Exchange student @ [Monash University](https://www.monash.edu/) (2015)
+- Exchange student @ [Monash University](https://www.monash.edu/) (2015) -->
 
 ## **Employment**
 - Data Scientist Intern, Walmart Labs, Summer 2020
