@@ -20,7 +20,7 @@ permalink: /biography/
 ## **Service**
 - Conference Reviewer: 
   - WSDM 2021, KDD 2021
-  - AISTATS 2022, ICML 2022, NeurIPS 2022
+  - KDD2022, AISTATS 2022, ICML 2022, NeurIPS 2022
 - Volunteer
   - KDD 2020
 - Journal Reviewer: 
