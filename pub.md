@@ -34,10 +34,10 @@ permalink: /publication/
 ### 2021
 - [SIGIR'21] When and Whom to Collaborate with in a Changing Environment: A Collaborative Dynamic Bandit Solution
   - **Chuanhao Li**, Qingyun Wu, Hongning Wang
-  - [\[paper\]](https://dl.acm.org/doi/10.1145/3404835.3462852) [\[code\]](https://github.com/cyrilli/CoDBand)
+  - [\[paper\]](https://arxiv.org/abs/2104.07150) [\[code\]](https://github.com/cyrilli/CoDBand)
 - [AISTATS'21] Unifying Clustered and Non-stationary Bandits
   - **Chuanhao Li**, Qingyun Wu, Hongning Wang
-  - [\[paper\]](http://proceedings.mlr.press/v130/li21c) [\[code\]](https://github.com/cyrilli/DyClu)
+  - [\[paper\]](https://arxiv.org/abs/2009.02463) [\[code\]](https://github.com/cyrilli/DyClu)
 
 ### Before 2018
 - [Mechanical Systems and Signal Processing] A deep convolutional neural network with new training methods for bearing fault diagnosis under noisy environment and different working load
