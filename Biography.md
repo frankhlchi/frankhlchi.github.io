@@ -34,11 +34,11 @@ permalink: /biography/
 
 ## **Awards**
   - Carlos and Esther Farrar Fellowship Award, UVA, 2021
-  - Academic Award for Grad Student, HIT, 2016
-  - Graduation with Distinction, HIT, 2016
-  - Outstanding Undergrad Thesis Award, HIT, 2016
   - National Scholarship for Undergrad, Ministry of Education, China, 2015
   - CSC Scholarship for Undergrad Exchange Program, China Scholarship Council, 2015
+<!--   - Academic Award for Grad Student, HIT, 2016 -->
+<!--   - Graduation with Distinction, HIT, 2016 -->
+<!--   - Outstanding Undergrad Thesis Award, HIT, 2016 -->
 <!-- **Music**:  -->
 
 
