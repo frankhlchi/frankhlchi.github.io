@@ -10,17 +10,17 @@ permalink: /publication/
 ## **Publications & Preprints** [\[Google Scholar\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
 
 ### Preprints
-- [arXiv'22] Communication Efficient Distributed Learning for Kernelized Contextual Bandits
-  - **Chuanhao Li**, Huazheng Wang, Mengdi Wang, Hongning Wang
-  - [\[paper\]](https://arxiv.org/abs/2206.04835)
-- [arXiv'22] Communication Efficient Federated Learning for Generalized Linear Bandits
-  - **Chuanhao Li**, Hongning Wang
-  - [\[paper\]](https://arxiv.org/abs/2202.01087) [\[code\]](https://github.com/cyrilli/FedGLB-UCB)
 - [arXiv'21] Incentivizing Exploration in Linear Bandits under Information Gap
   - Huazheng Wang, Haifeng Xu, **Chuanhao Li**, Zhiyuan Liu, Hongning Wang
   - [\[paper\]](https://arxiv.org/abs/2104.03860)
 
 ### 2022
+- [NeurIPS'22] Communication Efficient Distributed Learning for Kernelized Contextual Bandits
+  - **Chuanhao Li**, Huazheng Wang, Mengdi Wang, Hongning Wang
+  - [\[paper\]](https://arxiv.org/abs/2206.04835)
+- [NeurIPS'22] Communication Efficient Federated Learning for Generalized Linear Bandits
+  - **Chuanhao Li**, Hongning Wang
+  - [\[paper\]](https://arxiv.org/abs/2202.01087) [\[code\]](https://github.com/cyrilli/FedGLB-UCB)
 - [ICML'22] Learning from a Learning User for Optimal Recommendations
   - Fan Yao, **Chuanhao Li**, Denis Nekipelov, Hongning Wang, Haifeng Xu
   - [\[paper\]](https://arxiv.org/abs/2202.01879)
