@@ -14,6 +14,7 @@ Before joining UVa, I received my Bachelor degree in Mechanical Engineering and 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
 ## **News**
+- 09/14/2022: Two papers are accepted by NeurIPS 2022
 - 01/18/2022: One paper is accepted by AISTATS 2022
 - 10/09/2021: Received Carlos and Esther Farrar Fellowship Award
 - 04/14/2021: One paper is accepted by SIGIR 2021
