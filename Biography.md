@@ -19,11 +19,11 @@ permalink: /biography/
 
 ## **Service**
 - Volunteer
-  - [2020] KDD
+  - KDD'20
 - Conference Reviewer/sub-reviewer: 
-  - [2021] WSDM, KDD
-  - [2022] KDD, AISTATS, ICML, NeurIPS, GAMESEC
-  - [2023] WSDM
+  - WSDM'21, KDD'21 
+  - KDD'22, AISTATS'22, ICML'22, NeurIPS'22, GAMESEC'22
+  - WSDM'23
 - Journal Reviewer: 
   - IEEE Transactions on Systems, Man and Cybernetics: Systems (SMCA)
   - ACM Transactions on Intelligent Systems and Technology (TIST)
