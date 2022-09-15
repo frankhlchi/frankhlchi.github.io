@@ -44,22 +44,22 @@ Full publication list can be found on [\[Google Scholar\]](https://scholar.googl
   In AISTATS 2021\
   [\[paper\]](https://arxiv.org/abs/2009.02463) [\[code\]](https://github.com/cyrilli/DyClu)
 
-### Before 2018
+[Before 2019]
 - **A deep convolutional neural network with new training methods for bearing fault diagnosis under noisy environment and different working load**\
   Wei Zhang, <ins>Chuanhao Li</ins>, Gaoliang Peng, Yuanhang Chen, Zhujun Zhang\
-  In Mechanical Systems and Signal Processing\
+  In Mechanical Systems and Signal Processing, 2018\
   [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0888327017303369)
 - **ACDIN: Bridging the gap between artificial and real bearing damages for bearing fault diagnosis**\
   Yuanhang Chen, Gaoliang Peng, Chaohao Xie, Wei Zhang, <ins>Chuanhao Li</ins>, Shaohui Liu\
-  In Neurocomputing\
+  In Neurocomputing, 2018\
   [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S092523121830300X)
 - **Bearing fault diagnosis using fully-connected winner-take-all autoencoder**\
   <ins>Chuanhao Li</ins>, Wei Zhang, Gaoliang Peng, Shaohui Liu\
-  In IEEE Access\
+  In IEEE Access, 2017\
   [\[paper\]](https://ieeexplore.ieee.org/abstract/document/7956142) [\[code\]](https://github.com/cyrilli/FCWTA_AE)
 - **A new deep learning model for fault diagnosis with good anti-noise and domain adaptation ability on raw vibration signals**\
   Wei Zhang, Gaoliang Peng, <ins>Chuanhao Li</ins>, Yuanhang Chen, Zhujun Zhang\
-  In Sensors\
+  In Sensors, 2017\
   [\[paper\]](https://www.mdpi.com/1424-8220/17/2/425)
 <!-- - [IIH-MSP'16] Rolling element bearings fault intelligent diagnosis based on convolutional neural networks using raw sensing signal
   - Wei Zhang, Gaoliang Peng, <ins>Chuanhao Li</ins>
