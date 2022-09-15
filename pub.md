@@ -7,7 +7,7 @@ permalink: /publication/
 
 
 <a name="pub"></a>
-## **Publications & Preprints** [\[Google Scholar\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
+[\[Google Scholar\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
 
 ### Preprints
 - [arXiv'21] Incentivizing Exploration in Linear Bandits under Information Gap
