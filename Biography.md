@@ -18,12 +18,12 @@ permalink: /biography/
   - Visual Scene Understanding for Autonomous Vehicles
 
 ## **Service**
-- Conference Reviewer/sub-reviewer: 
-  - WSDM 2021, KDD 2021
-  - KDD2022, AISTATS 2022, ICML 2022, NeurIPS 2022, GAMESEC 22
-  - WSDM 2023
 - Volunteer
-  - KDD 2020
+  - [2020] KDD
+- Conference Reviewer/sub-reviewer: 
+  - [2021] WSDM, KDD
+  - [2022] KDD, AISTATS, ICML, NeurIPS, GAMESEC
+  - [2023] WSDM
 - Journal Reviewer: 
   - IEEE Transactions on Systems, Man and Cybernetics: Systems (SMCA)
   - ACM Transactions on Intelligent Systems and Technology (TIST)
