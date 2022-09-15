@@ -11,16 +11,10 @@ permalink: /biography/
 - **B.S.** in Mechanical Engineering & **B.A.** in English @ [Harbin Institute of Technology](http://en.hit.edu.cn/) (2012-2016)
 - Exchange student @ [Monash University](https://www.monash.edu/) (2015) -->
 
-## **Employment**
-- Data Scientist Intern, Walmart Labs, Summer 2020
-  - Online Grocery User Sequential Modeling
-- Research Intern, General Motors China Science Lab, Summer 2017
-  - Visual Scene Understanding for Autonomous Vehicles
-
-## **Service**
+## **Services**
 - Volunteer
   - KDD'20
-- Conference Reviewer/sub-reviewer: 
+- Conference Reviewer/Sub-reviewer: 
   - WSDM'21, KDD'21 
   - KDD'22, AISTATS'22, ICML'22, NeurIPS'22, GAMESEC'22
   - WSDM'23
@@ -29,15 +23,23 @@ permalink: /biography/
   - ACM Transactions on Intelligent Systems and Technology (TIST)
 
 ## **Teaching**
-  - TA, Reinforcement Learning (Grad), UVA, Fall 2020
-  - TA, Software Analysis and Applications (Grad), UVA, Spring 2020
-  - TA, Data Structures and Algorithms I (Undergrad), UVA, Fall 2019
+  - Teaching Assistant, CS6501-004 Reinforcement Learning, UVA, Fall 2020
+  - Teaching Assistant, CS6501-001 Software Analysis and Applications, UVA, Spring 2020
+  - Teaching Assistant, CS2501–100 Data Structures and Algorithms I, UVA, Fall 2019
+
+## **Experience**
+- Data Scientist Intern, Walmart Labs, Summer 2020
+- Research Intern, General Motors China Science Lab, China, Summer 2017
+- Exchange Student, Monash University, Australia, Spring 2015
+
+<!-- - : Online Grocery User Sequential Modeling -->
+<!-- - : Visual Scene Understanding for Autonomous Vehicles\ -->
 
 ## **Awards**
   - Carlos and Esther Farrar Fellowship Award, UVA, 2021
-  - National Scholarship for Undergrad, Ministry of Education of China, 2015
-  - CSC Scholarship for Undergrad Exchange Program, China Scholarship Council, 2015
-<!--   - Academic Award for Grad Student, HIT, 2016 -->
+  - National Scholarship for Undergraduate Student, Ministry of Education of China, 2015
+  - CSC Scholarship for Undergraduate Exchange Program, China Scholarship Council, 2015
+<!--   - Academic Award for Graduate Student, HIT, 2016 -->
 <!--   - Graduation with Distinction, HIT, 2016 -->
 <!--   - Outstanding Undergrad Thesis Award, HIT, 2016 -->
 <!-- **Music**:  -->
