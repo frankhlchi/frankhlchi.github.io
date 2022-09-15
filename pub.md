@@ -61,6 +61,7 @@ Full publication list can be found on [\[Google Scholar\]](https://scholar.googl
   Wei Zhang, Gaoliang Peng, <ins>Chuanhao Li</ins>, Yuanhang Chen, Zhujun Zhang\
   In Sensors, 2017\
   [\[paper\]](https://www.mdpi.com/1424-8220/17/2/425)
+  
 <!-- - [IIH-MSP'16] Rolling element bearings fault intelligent diagnosis based on convolutional neural networks using raw sensing signal
   - Wei Zhang, Gaoliang Peng, <ins>Chuanhao Li</ins>
   - [\[paper\]](https://link.springer.com/chapter/10.1007/978-3-319-50212-0_10)
