@@ -11,7 +11,7 @@ permalink: /biography/
 - **B.S.** in Mechanical Engineering & **B.A.** in English @ [Harbin Institute of Technology](http://en.hit.edu.cn/) (2012-2016)
 - Exchange student @ [Monash University](https://www.monash.edu/) (2015) -->
 
-## **Services**
+## Services
 - **Volunteer**
   - KDD'20
 - **Conference Reviewer/Sub-reviewer**
@@ -22,12 +22,12 @@ permalink: /biography/
   - IEEE Transactions on Systems, Man and Cybernetics: Systems (SMCA)
   - ACM Transactions on Intelligent Systems and Technology (TIST)
 
-## **Teaching**
+## Teaching
   - Teaching Assistant, CS6501-004 Reinforcement Learning, UVA, Fall 2020
   - Teaching Assistant, CS6501-001 Software Analysis and Applications, UVA, Spring 2020
   - Teaching Assistant, CS2501–100 Data Structures and Algorithms I, UVA, Fall 2019
 
-## **Experience**
+## Experience
 - Data Scientist Intern, Walmart Labs, Summer 2020
 - Research Intern, General Motors China Science Lab, China, Summer 2017
 - Exchange Student, Monash University, Australia, Spring 2015
@@ -35,7 +35,7 @@ permalink: /biography/
 <!-- - : Online Grocery User Sequential Modeling -->
 <!-- - : Visual Scene Understanding for Autonomous Vehicles\ -->
 
-## **Awards**
+## Awards
   - Carlos and Esther Farrar Fellowship Award, UVA, 2021
   - National Scholarship for Undergraduate Student, Ministry of Education of China, 2015
   - CSC Scholarship for Undergraduate Exchange Program, China Scholarship Council, 2015
@@ -44,8 +44,6 @@ permalink: /biography/
 <!--   - Outstanding Undergrad Thesis Award, HIT, 2016 -->
 <!-- **Music**:  -->
 
-
-<!-- I am proficiency in drawing art, including sketching, watercolor painting, and digital painting, using Photoshop/CorelPainter. I usually I like playing classical guitar. -->
 
 <!-- See my [blogs]() -->
 <!-- My [artworks]() -->
