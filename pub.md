@@ -7,7 +7,7 @@ permalink: /publication/
 
 
 <a name="pub"></a>
-Full publication list can be found on [\[Google Scholar\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
+More information about my work can be found on [\[Google Scholar\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
 
 ### Preprints
 - **Incentivizing Exploration in Linear Bandits under Information Gap**\
