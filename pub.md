@@ -9,12 +9,12 @@ permalink: /publication/
 <a name="pub"></a>
 More information about my work can be found on [\[Google Scholar\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
 
-### Preprints
+## Preprints
 - **Incentivizing Exploration in Linear Bandits under Information Gap**\
   Huazheng Wang, Haifeng Xu, <ins>Chuanhao Li</ins>, Zhiyuan Liu, Hongning Wang\
   [\[paper\]](https://arxiv.org/abs/2104.03860)
 
-### Publications
+## Publications
 - **Communication Efficient Distributed Learning for Kernelized Contextual Bandits**\
   <ins>Chuanhao Li</ins>, Huazheng Wang, Mengdi Wang, Hongning Wang\
   To appear in NeurIPS 2022\
