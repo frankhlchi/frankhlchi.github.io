@@ -25,7 +25,7 @@ permalink: /biography/
 ## Teaching
   - Teaching Assistant, CS6501-004 Reinforcement Learning, UVA, Fall 2020
   - Teaching Assistant, CS6501-001 Software Analysis and Applications, UVA, Spring 2020
-  - Teaching Assistant, CS2501–100 Data Structures and Algorithms I, UVA, Fall 2019
+  - Teaching Assistant, CS2501-100 Data Structures and Algorithms I, UVA, Fall 2019
 
 ## Experience
 - Data Scientist Intern, Walmart Labs, Summer 2020
