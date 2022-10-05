@@ -44,7 +44,7 @@ More information about my work can be found on [\[Google Scholar\]](https://scho
   AISTATS 2021\
   [\[paper\]](https://arxiv.org/abs/2009.02463) [\[code\]](https://github.com/cyrilli/DyClu)
 
-[Before 2019]
+[Old research]
 - **A deep convolutional neural network with new training methods for bearing fault diagnosis under noisy environment and different working load**\
   Wei Zhang, <ins>Chuanhao Li</ins>, Gaoliang Peng, Yuanhang Chen, Zhujun Zhang\
   Mechanical Systems and Signal Processing, 2018\
