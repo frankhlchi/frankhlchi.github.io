@@ -15,7 +15,7 @@ More information about my work can be found on [\[Google Scholar\]](https://scho
   [\[paper\]](https://arxiv.org/abs/2104.03860)
 
 # Publications
-## Theory and Algorithms of Bandit Problems
+## Theory and Algorithms for Bandit Problems
 - **Communication Efficient Distributed Learning for Kernelized Contextual Bandits**\
   <ins>Chuanhao Li</ins>, Huazheng Wang, Mengdi Wang, Hongning Wang\
   NeurIPS 2022\
