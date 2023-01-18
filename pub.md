@@ -9,12 +9,13 @@ permalink: /publication/
 <a name="pub"></a>
 More information about my work can be found on [\[Google Scholar\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
 
-## Preprints
+# Preprints
 - **Incentivizing Exploration in Linear Bandits under Information Gap**\
   Huazheng Wang, Haifeng Xu, <ins>Chuanhao Li</ins>, Zhiyuan Liu, Hongning Wang\
   [\[paper\]](https://arxiv.org/abs/2104.03860)
 
-## Publications
+# Publications
+## Theory and Algorithms of Bandit Problems
 - **Communication Efficient Distributed Learning for Kernelized Contextual Bandits**\
   <ins>Chuanhao Li</ins>, Huazheng Wang, Mengdi Wang, Hongning Wang\
   NeurIPS 2022\
@@ -44,7 +45,7 @@ More information about my work can be found on [\[Google Scholar\]](https://scho
   AISTATS 2021\
   [\[paper\]](https://arxiv.org/abs/2009.02463) [\[code\]](https://github.com/cyrilli/DyClu)
 
-[Old research]
+## Applications of Deep Learning in Vibration Signals
 - **A deep convolutional neural network with new training methods for bearing fault diagnosis under noisy environment and different working load**\
   Wei Zhang, <ins>Chuanhao Li</ins>, Gaoliang Peng, Yuanhang Chen, Zhujun Zhang\
   Mechanical Systems and Signal Processing, 2018\
