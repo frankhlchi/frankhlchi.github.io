@@ -49,30 +49,35 @@ More information about my work can be found on [\[Google Scholar\]](https://scho
   AISTATS 2021\
   [\[paper\]](https://arxiv.org/abs/2009.02463) [\[code\]](https://github.com/cyrilli/DyClu)
 
-## Applications of Deep Learning in Vibration Signals
-- **A deep convolutional neural network with new training methods for bearing fault diagnosis under noisy environment and different working load**\
+## Applications of Deep Learning in Vibration Signals & Robotic Grasping 
+- **Vision-based Robot Grasp Planning Using Deep Neural Networks**\
+  <ins>Chuanhao Li</ins>\
+  Master Thesis 2018\
+  [\[demo\]](https://youtu.be/qlhEtHCVZsw) [\[code\]](https://github.com/cyrilli/planar_grasp_detection)
+- **A Deep Convolutional Neural Network with New Training Methods for Bearing Fault Diagnosis under Noisy Environment and Different Working Load**\
   Wei Zhang, <ins>Chuanhao Li</ins>, Gaoliang Peng, Yuanhang Chen, Zhujun Zhang\
-  Mechanical Systems and Signal Processing, 2018\
+  Mechanical Systems and Signal Processing 2018\
   [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0888327017303369)
-- **ACDIN: Bridging the gap between artificial and real bearing damages for bearing fault diagnosis**\
+- **ACDIN: Bridging the Gap between Artificial and Real Bearing Damages for Bearing Fault Diagnosis**\
   Yuanhang Chen, Gaoliang Peng, Chaohao Xie, Wei Zhang, <ins>Chuanhao Li</ins>, Shaohui Liu\
-  Neurocomputing, 2018\
+  Neurocomputing 2018\
   [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S092523121830300X)
-- **Bearing fault diagnosis using fully-connected winner-take-all autoencoder**\
+- **Bearing Fault Diagnosis Using Fully-connected Winner-take-all Autoencoder**\
   <ins>Chuanhao Li</ins>, Wei Zhang, Gaoliang Peng, Shaohui Liu\
-  IEEE Access, 2017\
+  IEEE Access 2017\
   [\[paper\]](https://ieeexplore.ieee.org/abstract/document/7956142) [\[code\]](https://github.com/cyrilli/FCWTA_AE)
-- **A new deep learning model for fault diagnosis with good anti-noise and domain adaptation ability on raw vibration signals**\
+- **A New Deep Learning Model for Fault Diagnosis with Good Anti-noise and Domain Adaptation Ability on Raw Vibration Signals**\
   Wei Zhang, Gaoliang Peng, <ins>Chuanhao Li</ins>, Yuanhang Chen, Zhujun Zhang\
-  Sensors, 2017\
+  Sensors 2017\
   [\[paper\]](https://www.mdpi.com/1424-8220/17/2/425)
-  
-<!-- - [IIH-MSP'16] Rolling element bearings fault intelligent diagnosis based on convolutional neural networks using raw sensing signal
-  - Wei Zhang, Gaoliang Peng, <ins>Chuanhao Li</ins>
-  - [\[paper\]](https://link.springer.com/chapter/10.1007/978-3-319-50212-0_10)
-- [ICMME'16] Bearings fault diagnosis based on convolutional neural networks with 2-D representation of vibration signals as input
-  - Wei Zhang, Gaoliang Peng, <ins>Chuanhao Li</ins>
-  - [\[paper\]](https://www.matec-conferences.org/articles/matecconf/abs/2017/09/matecconf_icmme2017_13001/matecconf_icmme2017_13001.html) -->
+- **Rolling Element Bearings Fault Intelligent Diagnosis Based on Convolutional Neural Networks using Raw Sensing Signal**\
+  Wei Zhang, Gaoliang Peng, <ins>Chuanhao Li</ins>\
+  IIH-MSP 2016\
+  [\[paper\]](https://link.springer.com/chapter/10.1007/978-3-319-50212-0_10)
+- **Bearings Fault Diagnosis based on Convolutional Neural Networks with 2-D Representation of Vibration Signals as Input**\
+  Wei Zhang, Gaoliang Peng, <ins>Chuanhao Li</ins>\
+  ICMME 2016\
+  [\[paper\]](https://www.matec-conferences.org/articles/matecconf/abs/2017/09/matecconf_icmme2017_13001/matecconf_icmme2017_13001.html)
 
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
