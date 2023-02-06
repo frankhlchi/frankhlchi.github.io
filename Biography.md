@@ -35,7 +35,8 @@ permalink: /biography/
 <!-- - : Online Grocery User Sequential Modeling -->
 <!-- - : Visual Scene Understanding for Autonomous Vehicles\ -->
 
-## Awards
+## Hornors \& Awards
+  - AISTATS 2023 Top Reviewer (Top 10%)
   - Carlos and Esther Farrar Fellowship Award, UVA, 2021
   - National Scholarship for Undergraduate Student, Ministry of Education of China, 2015
   - CSC Scholarship for Undergraduate Exchange Program, China Scholarship Council, 2015
