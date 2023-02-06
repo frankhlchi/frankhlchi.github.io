@@ -22,19 +22,19 @@ permalink: /biography/
   - IEEE Transactions on Systems, Man and Cybernetics: Systems (SMCA)
   - ACM Transactions on Intelligent Systems and Technology (TIST)
 
-## Hornors \& Awards
-  - AISTATS 2023 Top Reviewer (Top 10%)
-  - Carlos and Esther Farrar Fellowship Award, UVA, 2021
-  - National Scholarship for Undergraduate Student, Ministry of Education of China, 2015
-  - CSC Scholarship for Undergraduate Exchange Program, China Scholarship Council, 2015
+## Honors & Awards
+- AISTATS 2023 Top Reviewer (Top 10%)
+- Carlos and Esther Farrar Fellowship Award, UVA, 2021
+- National Scholarship for Undergraduate Student, Ministry of Education of China, 2015
+- CSC Scholarship for Undergraduate Exchange Program, China Scholarship Council, 2015
 <!--   - Academic Award for Graduate Student, HIT, 2016 -->
 <!--   - Graduation with Distinction, HIT, 2016 -->
 <!--   - Outstanding Undergrad Thesis Award, HIT, 2016 -->
 
 ## Teaching
-  - Teaching Assistant, CS6501-004 Reinforcement Learning (Graduate Level), UVA, Fall 2020
-  - Teaching Assistant, CS6501-001 Software Analysis and Applications (Graduate Level), UVA, Spring 2020
-  - Teaching Assistant, CS2501-100 Data Structures and Algorithms I (Undergraduate Level), UVA, Fall 2019
+- Teaching Assistant, CS6501-004 Reinforcement Learning (Graduate Level), UVA, Fall 2020
+- Teaching Assistant, CS6501-001 Software Analysis and Applications (Graduate Level), UVA, Spring 2020
+- Teaching Assistant, CS2501-100 Data Structures and Algorithms I (Undergraduate Level), UVA, Fall 2019
 
 ## Experience
 - Data Scientist Intern, Walmart Labs, Summer 2020
