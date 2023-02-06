@@ -22,19 +22,6 @@ permalink: /biography/
   - IEEE Transactions on Systems, Man and Cybernetics: Systems (SMCA)
   - ACM Transactions on Intelligent Systems and Technology (TIST)
 
-## Teaching
-  - Teaching Assistant, CS6501-004 Reinforcement Learning, UVA, Fall 2020
-  - Teaching Assistant, CS6501-001 Software Analysis and Applications, UVA, Spring 2020
-  - Teaching Assistant, CS2501-100 Data Structures and Algorithms I, UVA, Fall 2019
-
-## Experience
-- Data Scientist Intern, Walmart Labs, Summer 2020
-- Research Intern, General Motors China Science Lab, China, Summer 2017
-- Exchange Student, Monash University, Australia, Spring 2015
-
-<!-- - : Online Grocery User Sequential Modeling -->
-<!-- - : Visual Scene Understanding for Autonomous Vehicles\ -->
-
 ## Hornors \& Awards
   - AISTATS 2023 Top Reviewer (Top 10%)
   - Carlos and Esther Farrar Fellowship Award, UVA, 2021
@@ -43,11 +30,19 @@ permalink: /biography/
 <!--   - Academic Award for Graduate Student, HIT, 2016 -->
 <!--   - Graduation with Distinction, HIT, 2016 -->
 <!--   - Outstanding Undergrad Thesis Award, HIT, 2016 -->
-<!-- **Music**:  -->
 
+## Teaching
+  - Teaching Assistant, CS6501-004 Reinforcement Learning (Graduate Level), UVA, Fall 2020
+  - Teaching Assistant, CS6501-001 Software Analysis and Applications (Graduate Level), UVA, Spring 2020
+  - Teaching Assistant, CS2501-100 Data Structures and Algorithms I (Undergraduate Level), UVA, Fall 2019
 
-<!-- See my [blogs]() -->
-<!-- My [artworks]() -->
+## Experience
+- Data Scientist Intern, Walmart Labs, Summer 2020
+- Research Intern, General Motors China Science Lab, China, Summer 2017
+- Exchange Student, Monash University, Australia, Spring 2015
+
+<!-- - : Online Grocery User Sequential Modeling -->
+<!-- - : Visual Scene Understanding for Autonomous Vehicles\ -->
 
 
 
