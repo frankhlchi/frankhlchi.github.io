@@ -13,7 +13,10 @@ More information about my work can be found on [\[Google Scholar\]](https://scho
 - **Incentivizing Exploration in Linear Bandits under Information Gap**\
   Huazheng Wang, Haifeng Xu, <ins>Chuanhao Li</ins>, Zhiyuan Liu, Hongning Wang\
   [\[paper\]](https://arxiv.org/abs/2104.03860)
-
+ - **How Bad is Top-K Recommendation under Competing Content Creators?**\
+  Fan Yao, <ins>Chuanhao Li</ins>, Denis Nekipelov, Hongning Wang, Haifeng Xu\
+  [\[paper\]](https://arxiv.org/abs/2302.01971)
+  
 # Publications
 ## Theory and Algorithms for Bandit Problems
 - **Learning Kernelized Contextual Bandits in a Distributed and Asynchronous Environment**\
