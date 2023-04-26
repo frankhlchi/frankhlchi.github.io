@@ -15,7 +15,7 @@ More information about my work can be found on [\[Google Scholar\]](https://scho
   [\[paper\]](https://arxiv.org/abs/2104.03860)
   
 # Publications
-## Theory and Algorithms for Bandit Problems
+## Sequential decision making & algorithmic game theory
  - **How Bad is Top-K Recommendation under Competing Content Creators?**\
   Fan Yao, <ins>Chuanhao Li</ins>, Denis Nekipelov, Hongning Wang, Haifeng Xu\
   ICML 2023\
@@ -53,7 +53,7 @@ More information about my work can be found on [\[Google Scholar\]](https://scho
   AISTATS 2021\
   [\[paper\]](https://arxiv.org/abs/2009.02463) [\[code\]](https://github.com/cyrilli/DyClu)
 
-## Applications of Deep Learning in Vibration Signals & Robotic Grasping 
+## Applications of deep Learning in vibration signals & robotics 
 - **Vision-based Robot Grasp Planning Using Deep Neural Networks**\
   <ins>Chuanhao Li</ins>\
   Master Thesis 2018\
