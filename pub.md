@@ -9,7 +9,7 @@ permalink: /publication/
 <a name="pub"></a>
 More information about my work can be found on [\[Google Scholar\]](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao)
 
-# Preprints \& Working Papers
+# Preprints & Working Papers
  - **Pure Exploration for Asynchronous Federated Bandits**\
   Zichen Wang, <ins>Chuanhao Li</ins>, Chenyu Song, Lianghui Wang, Huazheng Wang\
   in submission
@@ -17,13 +17,13 @@ More information about my work can be found on [\[Google Scholar\]](https://scho
   Fan Yao, <ins>Chuanhao Li</ins>, Karthik Abinav Sankararaman, Yiming Liao, Yan Zhu, Qifan Wang, Hongning Wang, Haifeng Xu\
   in submission
  - **Federated Linear Contextual Bandits with Heterogeneous Clients**\
-  Ethan Blaser*, <ins>Chuanhao Li</ins>*, Hongning Wang\
+  Ethan Blaser\*, <ins>Chuanhao Li</ins>\*, Hongning Wang\
   in submission
  - **Communication-Efficient Federated Non-Linear Bandit Optimization**\
   <ins>Chuanhao Li</ins>, Chong Liu, Yu-Xiang Wang\
   in submission
  - **Incentivized Communication for Federated Bandits**\
-  Zhepei Wei*, <ins>Chuanhao Li</ins>*, Haifeng Xu, Hongning Wang\
+  Zhepei Wei\*, <ins>Chuanhao Li</ins>\*, Haifeng Xu, Hongning Wang\
   in submission
 - **Incentivizing Exploration in Linear Bandits under Information Gap**\
   Huazheng Wang, Haifeng Xu, <ins>Chuanhao Li</ins>, Zhiyuan Liu, Hongning Wang\
