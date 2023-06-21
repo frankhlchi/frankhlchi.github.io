@@ -25,13 +25,13 @@ More information about my work can be found on [\[Google Scholar\]](https://scho
  - **Incentivized Communication for Federated Bandits**\
   Zhepei Wei\*, <ins>Chuanhao Li</ins>\*, Haifeng Xu, Hongning Wang\
   in submission
-- **Incentivizing Exploration in Linear Bandits under Information Gap**\
-  Huazheng Wang, Haifeng Xu, <ins>Chuanhao Li</ins>, Zhiyuan Liu, Hongning Wang\
-  in submission\
-  [\[paper\]](https://arxiv.org/abs/2104.03860)
   
 # Publications
 ## Sequential decision making & algorithmic game theory
+- **Incentivizing Exploration in Linear Bandits under Information Gap**\
+  Huazheng Wang, Haifeng Xu, <ins>Chuanhao Li</ins>, Zhiyuan Liu, Hongning Wang\
+  RecSys 2023\
+  [\[paper\]](https://arxiv.org/abs/2104.03860)
  - **How Bad is Top-K Recommendation under Competing Content Creators?**\
   Fan Yao, <ins>Chuanhao Li</ins>, Denis Nekipelov, Hongning Wang, Haifeng Xu\
   ICML 2023\
