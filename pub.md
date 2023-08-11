@@ -53,10 +53,6 @@ More information about my work can be found on [\[Google Scholar\]](https://scho
   [\[paper\]](https://arxiv.org/abs/2009.02463) [\[code\]](https://github.com/cyrilli/DyClu)
 
 ## Applications of deep Learning in vibration signals & robotics 
-- **Vision-based Robot Grasp Planning Using Deep Neural Networks**\
-  <ins>Chuanhao Li</ins>\
-  Master Thesis 2018\
-  [\[demo\]](https://youtu.be/qlhEtHCVZsw) [\[code\]](https://github.com/cyrilli/planar_grasp_detection)
 - **A Deep Convolutional Neural Network with New Training Methods for Bearing Fault Diagnosis under Noisy Environment and Different Working Load**\
   Wei Zhang, <ins>Chuanhao Li</ins>, Gaoliang Peng, Yuanhang Chen, Zhujun Zhang\
   Mechanical Systems and Signal Processing 2018\
