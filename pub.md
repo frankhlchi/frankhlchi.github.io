@@ -52,7 +52,7 @@ More information about my work can be found on [\[Google Scholar\]](https://scho
   AISTATS 2021\
   [\[paper\]](https://arxiv.org/abs/2009.02463) [\[code\]](https://github.com/cyrilli/DyClu)
 
-## Applications of deep Learning in vibration signals & robotics 
+## Applications of deep Learning in vibration signals
 - **A Deep Convolutional Neural Network with New Training Methods for Bearing Fault Diagnosis under Noisy Environment and Different Working Load**\
   Wei Zhang, <ins>Chuanhao Li</ins>, Gaoliang Peng, Yuanhang Chen, Zhujun Zhang\
   Mechanical Systems and Signal Processing 2018\
