@@ -11,6 +11,14 @@ More information about my work can be found on [\[Google Scholar\]](https://scho
   
 # Publications
 ## Sequential decision making & algorithmic game theory
+- **Rethinking Incentives in Recommender Systems: Are Monotone Rewards Always Beneficial?**\
+  Fan Yao, <ins>Chuanhao Li</ins>, Karthik Abinav Sankararaman, Yiming Liao, Yan Zhu, Qifan Wang, Hongning Wang, Haifeng Xu\
+  NeurIPS 2023\
+  [\[paper\]](https://arxiv.org/abs/2306.07893)
+- **Incentivized Communication for Federated Bandits**\
+  Zhepei Wei*, <ins>Chuanhao Li</ins>*, Haifeng Xu, Hongning Wang\
+  NeurIPS 2023\
+  [\[paper\]](https://arxiv.org/abs/2309.11702)
 - **Incentivizing Exploration in Linear Bandits under Information Gap**\
   Huazheng Wang, Haifeng Xu, <ins>Chuanhao Li</ins>, Zhiyuan Liu, Hongning Wang\
   RecSys 2023\
