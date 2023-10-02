@@ -7,7 +7,8 @@ published: true
  
 ## About Me
 I am a Postdoctoral Associate in the Department of Statistics & Data Science at Yale University, working with Professor Zhuoran Yang.
-I obtained my PhD degree in Computer Science from University of Virginia, advised by Professor Hongning Wang, my bachelor's and master's degree from the School of Mechatronics Engineering at Harbin Institute of Technology.
+I obtained my PhD degree in Computer Science from University of Virginia, advised by Professor Hongning Wang.
+<!--my bachelor's and master's degree from the School of Mechatronics Engineering at Harbin Institute of Technology.-->
 
 ## Research Interest
 I am broadly interested in machine learning and decision making, with a special focus on online learning problems like contextual multi-armed bandits.
