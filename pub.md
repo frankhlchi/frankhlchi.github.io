@@ -16,7 +16,7 @@ More information about my work can be found on [\[Google Scholar\]](https://scho
   NeurIPS 2023\
   [\[paper\]](https://arxiv.org/abs/2306.07893)
 - **Incentivized Communication for Federated Bandits**\
-  Zhepei Wei*, <ins>Chuanhao Li</ins>*, Haifeng Xu, Hongning Wang\
+  Zhepei Wei\*, <ins>Chuanhao Li</ins>\*, Haifeng Xu, Hongning Wang\
   NeurIPS 2023\
   [\[paper\]](https://arxiv.org/abs/2309.11702)
 - **Incentivizing Exploration in Linear Bandits under Information Gap**\
