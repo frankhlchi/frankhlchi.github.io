@@ -23,6 +23,7 @@ permalink: /biography/
   - ACM Transactions on Intelligent Systems and Technology (TIST)
 
 ## Honors & Awards
+- NeurIPS Scholar Award, 2023
 - ICLR Notable Reviewer (62 out of 5k+), 2023
 - AISTATS Top Reviewer (Top 10%), 2023
 - NeurIPS Scholar Award, 2022
