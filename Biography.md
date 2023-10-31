@@ -14,7 +14,7 @@ permalink: /biography/
 ## Services
 - **Volunteer**
   - KDD'20
-- **Conference Reviewer/Sub-reviewer**
+- **Conference Reviewer**
   - WSDM, KDD
   - AISTATS, ICML, NeurIPS, ICLR, IJCAI
   - GAMESEC
