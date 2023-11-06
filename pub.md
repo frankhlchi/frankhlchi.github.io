@@ -12,7 +12,7 @@ More information about my work can be found on [\[Google Scholar\]](https://scho
 # Preprints
 - **Communication-Efficient Federated Non-Linear Bandit Optimization**\
   <ins>Chuanhao Li</ins>\*, Chong Liu\*, Yu-Xiang Wang\
-  arXiv 2023
+  arXiv 2023 [\[paper\]](https://arxiv.org/abs/2311.01695)
 - **Pure Exploration in Asynchronous Federated Bandits**\
   Zichen Wang, <ins>Chuanhao Li</ins>, Chenyu Song, Lianghui Wang, Quanquan Gu, Huazheng Wang\
   arXiv 2023 [\[paper\]](https://arxiv.org/abs/2310.11015)
