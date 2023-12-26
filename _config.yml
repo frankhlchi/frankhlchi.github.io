@@ -1,90 +1,75 @@
-#
-# This file contains configuration flags to customize your site
-#
+# Site settings
+title: Hongliang Chi (Frank)
+email: chih3@rpi.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute (RPI) under the supervision of Prof. Yao Ma. I received a bachelor's degree in Quantitative Business Analysis and Computer Science from University of Sydney and a master's degree in Operations Research and Information Engineering from Cornell University. I also have work experience at Gap Inc, Cardinal Operations and EY.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://frankhlchi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+avatar: https://github.com/frankhlchi/frankchi.github.io/blob/master/images/profile.jpeg
 
-# Name of your site (displayed in the header)
-name: Chuanhao Li (李传浩)
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
 
-# Short bio or description (displayed in the header)
-description: Postdoctoral Associate @ Department of Statistics and Data Science, Yale University
+# Personal Information
+linkedin_url: https://www.linkedin.com/in/frank-hongliang-chi/
+github_url: https://github.com/frankhlchi
+google_scholar_url: https://scholar.google.com/citations?user=Q8S5vXsAAAAJ&hl=en
 
-department: Department of Statistics and Data Science
-institution: Yale University
-email: chuanhao.li.cl2637 at yale.edu
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://cyrilli.github.io/images/portrait_photo.jpg
-#
-# Flags below are optional
-#
+# Publications
+publications:
+  - title: "Active Learning for Graphs with Noisy Structures."
+    authors: "Hongliang Chi, Cong Qi, Suhang Wang, Yao Ma"
+    link: https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_9.pdf
+    conference: "SDM 2024"
+  - title: "Enhancing Graph Contrastive Learning with Node Similarity."
+    authors: "Hongliang Chi, Yao Ma"
+    link: https://arxiv.org/abs/2208.06743
+    status: "arXiv preprint arXiv: 2208.06743, 2022"
 
-# Includes an icon in the footer for each username you enter
-footer-links:
-  googlescholar: w2ShljkAAAAJ&hl=en&oi=ao
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: cyrilli
-  dblp:
-  instagram:
-  linkedin: chuanhao-li-259281107
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: ChuanhaoLi1
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+# Symposiums and Workshops
+symposiums:
+  - title: "Active Learning for Graphs with Noisy Structures."
+    event: "19th International Workshop on Mining and Learning with Graphs (MLG)"
+    year: 2023
+    link: https://www.mlgworkshop.org/2023/
+  - title: "Enhancing Graph Contrastive Learning with Node Similarity."
+    event: "International Conference on Data Mining (SDM) Doctoral Forum, SIAM, Poster"
+    year: 2022
+    link: https://www.siam.org/conferences/cm/program/special-events/sdm22-special-events
 
+# Awards
+awards:
+  - name: WSDM 2024 Student Travel Award
+  - name: WSDM 2022 Student Travel Award
+  - name: SDM 2022 Travel Award
 
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
+# Services
+services:
+  - title: "Reviewer"
+    organization: "ACM Transactions on Knowledge Discovery from Data (TKDD)"
+    year: 2023
+  - title: "External Reviewer"
+    organization: "The Conference on Information and Knowledge Management (CIKM)"
+    year: 2022
+  - title: "Reviewer"
+    organization: "Machine Learning on Graphs Workshop at WSDM"
+    year: 2022
+  - title: "External Reviewer"
+    organization: "Special Interest Group on Knowledge Discovery and Data Mining (SIGKDD)"
+    year: 2022
+  - title: "External Reviewer"
+    organization: "The Web Conference (WWW)"
+    year: 2022
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-253330573-1
-
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url: http://cyrilli.github.io
-
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
-
-#
-# !! You don't need to change any of the configuration flags below !!
-#
-
-permalink: /:title/
-
-# The release of Jekyll Now that you're using
-version: v1.2.0
-
-# Jekyll 3 now only supports Kramdown for Markdown
-kramdown:
-  # Use GitHub flavored markdown, including triple backtick fenced code blocks
-  input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
-
-# Set the Sass partials directory, as we're using @imports
-sass:
-  style: :expanded # You might prefer to minify using :compressed
-
-# Use the following plug-ins
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
-# Exclude these files from your production _site
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
+# Volunteering
+volunteering:
+  - project: 2022 ACM SIGKDD
+    location: Washington DC, U.S.
+    year: 2022
+  - project: "Cornell Course Roster Scheduling under COVID-19 Emergency"
+    year: 2020
+    details: >-
+      Member of Cornell’s Roster Team, implemented a MIP model for room scheduling and assignment under COVID-19 capacity constraints. Related news: [Engineering Behind Cornell's Fall 2020 Schedule](https://www.engineering.cornell.edu/spotlights/unsung-engineering-behind-cornells-fall-2020-schedule).
