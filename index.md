@@ -1,23 +1,76 @@
 
----
-layout: home
-title: "Welcome to My Academic Portfolio"
----
+# Site settings
+title: Hongliang Chi (Frank)
+email: chih3@rpi.edu
+description: >- 
+  Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute (RPI) under the supervision of Prof. Yao Ma. I received a bachelor's degree in Quantitative Business Analysis and Computer Science from University of Sydney and a master's degree in Operations Research and Information Engineering from Cornell University. I also have work experience at Gap Inc, Cardinal Operations and EY.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://frankhlchi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+avatar: https://github.com/frankhlchi/frankchi.github.io/blob/master/images/profile.jpeg
 
-# Welcome to My Academic Portfolio
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
 
-## About Me
-I am an enthusiastic researcher in the field of machine learning and data science, with a focus on federated learning, bandit optimization, and applications of deep learning in various domains.
+# Personal Information
+linkedin_url: https://www.linkedin.com/in/frank-hongliang-chi/
+github_url: https://github.com/frankhlchi
+google_scholar_url: https://scholar.google.com/citations?user=Q8S5vXsAAAAJ&hl=en
 
-## Highlighted Work
-- **Federated Non-Linear Bandit Optimization**
-- **Asynchronous Federated Bandits**
-- **Incentives in Recommender Systems**
+# Publications
+publications:
+  - title: "Active Learning for Graphs with Noisy Structures."
+    authors: "Hongliang Chi, Cong Qi, Suhang Wang, Yao Ma"
+    link: https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_9.pdf
+    conference: "SDM 2024"
+  - title: "Enhancing Graph Contrastive Learning with Node Similarity."
+    authors: "Hongliang Chi, Yao Ma"
+    link: https://arxiv.org/abs/2208.06743
+    status: "arXiv preprint arXiv: 2208.06743, 2022"
 
-## Navigation
-- [Publications](/publication/)
-- [Research](/research/)
-- [Blog](/blog/)
+# Symposiums and Workshops
+symposiums:
+  - title: "Active Learning for Graphs with Noisy Structures."
+    event: "19th International Workshop on Mining and Learning with Graphs (MLG)"
+    year: 2023
+    link: https://www.mlgworkshop.org/2023/
+  - title: "Enhancing Graph Contrastive Learning with Node Similarity."
+    event: "International Conference on Data Mining (SDM) Doctoral Forum, SIAM, Poster"
+    year: 2022
+    link: https://www.siam.org/conferences/cm/program/special-events/sdm22-special-events
 
-## Contact
-For inquiries or collaborations, please reach out via email or follow my work on [Google Scholar](https://scholar.google.com/citations?user=w2ShljkAAAAJ&hl=en&oi=ao).
+# Awards
+awards:
+  - name: WSDM 2024 Student Travel Award
+  - name: WSDM 2022 Student Travel Award
+  - name: SDM 2022 Travel Award
+
+# Services
+services:
+  - title: "Reviewer"
+    organization: "ACM Transactions on Knowledge Discovery from Data (TKDD)"
+    year: 2023
+  - title: "External Reviewer"
+    organization: "The Conference on Information and Knowledge Management (CIKM)"
+    year: 2022
+  - title: "Reviewer"
+    organization: "Machine Learning on Graphs Workshop at WSDM"
+    year: 2022
+  - title: "External Reviewer"
+    organization: "Special Interest Group on Knowledge Discovery and Data Mining (SIGKDD)"
+    year: 2022
+  - title: "External Reviewer"
+    organization: "The Web Conference (WWW)"
+    year: 2022
+
+# Volunteering
+volunteering:
+  - project: 2022 ACM SIGKDD
+    location: Washington DC, U.S.
+    year: 2022
+  - project: "Cornell Course Roster Scheduling under COVID-19 Emergency"
+    year: 2020
+    details: >-
+      Member of Cornell’s Roster Team, implemented a MIP model for room scheduling and assignment under COVID-19 capacity constraints. Related news: [Engineering Behind Cornell's Fall 2020 Schedule](https://www.engineering.cornell.edu/spotlights/unsung-engineering-behind-cornells-fall-2020-schedule).
