@@ -34,7 +34,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 - [11/2021] Served as a subreviewer for The Web Conference 2022
 - [09/2021] Join and be the first student at [Data Analytics and Machine Intelligence (DAMI) Lab](https://dami-lab.github.io/)
 
-## Publications
+## Publications and Preprints
 - [SDM 2024] **"Active Learning for Graphs with Noisy Structures."** 
   - **Hongliang Chi**, Cong Qi, Suhang Wang, Yao Ma. 
   - [Read the paper](https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_9.pdf)
