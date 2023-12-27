@@ -71,7 +71,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 
 ## Fun Pictures
 - Pictures taken at various cities: [Sydney](https://photos.app.goo.gl/gf6ExbMk4cfWhsmG9), [Beijing](https://photos.app.goo.gl/67M7jJfmofBNND6Z6), [New York](https://photos.app.goo.gl/c5b1fhyLY6fseUas8), [San Francisco](https://photos.app.goo.gl/4ovGfWAPAWxnZkGj6), [Other Places](https://photos.app.goo.gl/s8fqbTa21fNrkhqo8)
-- Running Related [Pictures](https://photos.app.goo.gl/tpQHiU43DvBeHLm87)
+- Running Related [Pictures](https://photos.app.goo.gl/tpQHiU43DvBeHLm87), Travel Related [Pictures](https://photos.app.goo.gl/w4JamHcr6cRLCH9c8)
 - A mug for ranking top 3 in a Machine Learning challenge at Cornell (thank you Prof. Nathan Kallus). [Mug Image](https://photos.app.goo.gl/kK7SMGP1oANN9WE97)
   
 
