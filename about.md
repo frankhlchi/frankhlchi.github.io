@@ -13,7 +13,6 @@ permalink: /about/
 <div class="masthead" style="margin-top: -25px;margin-bottom: -15;"> </div>
 
 
-*Back to [CV](/CV#proj).*
 
 <!-- *Go to [Homepage](/#award).* -->
 
