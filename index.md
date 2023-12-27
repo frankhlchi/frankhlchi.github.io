@@ -66,7 +66,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 ## Volunteering
 - 2022 ACM SIGKDD, Washington DC, U.S., 2022
 - Cornell Course Roster Scheduling under COVID-19 Emergency, 2020
-  - Details: Member of Cornell’s Roster Team, implemented a MIP model for room scheduling and assignment under COVID-19 capacity constraints. [Read more](https://www.engineering.cornell.edu/spotlights/unsung-engineering-behind-cornells-fall-2020-schedule).
+  - Details: Member of Cornell’s Roster Team, implemented an optimization model for room scheduling and assignment under COVID-19 capacity constraints. [Read news report](https://www.engineering.cornell.edu/spotlights/unsung-engineering-behind-cornells-fall-2020-schedule).
 
 
 
