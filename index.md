@@ -70,10 +70,10 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
   - Details: Member of Cornell’s Roster Team, implemented an optimization model for room scheduling and assignment under COVID-19 capacity constraints. [Read news report](https://www.engineering.cornell.edu/spotlights/unsung-engineering-behind-cornells-fall-2020-schedule).
 
 ## Fun Pictures
-- A mug for ranking top 3 in a Machine Learning challenge at Cornell (thank you Prof. Nathan Kallus). [Mug Image](https://photos.app.goo.gl/kK7SMGP1oANN9WE97)
 - Pictures taken at various cities: [Sydney](https://photos.app.goo.gl/gf6ExbMk4cfWhsmG9), [Beijing](https://photos.app.goo.gl/67M7jJfmofBNND6Z6), [New York](https://photos.app.goo.gl/jZDCEw6e4i99eDqL7), [San Francisco](https://photos.app.goo.gl/4ovGfWAPAWxnZkGj6), [Other Places](https://photos.app.goo.gl/s8fqbTa21fNrkhqo8)
-- [Pictures about running](https://photos.app.goo.gl/tpQHiU43DvBeHLm87)
-
+- [Running Related](https://photos.app.goo.gl/tpQHiU43DvBeHLm87)
+- A mug for ranking top 3 in a Machine Learning challenge at Cornell (thank you Prof. Nathan Kallus). [Mug Image](https://photos.app.goo.gl/kK7SMGP1oANN9WE97)
+  
 
 
 
