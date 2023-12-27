@@ -69,5 +69,16 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 - Cornell Course Roster Scheduling under COVID-19 Emergency, 2020
   - Details: Member of Cornell’s Roster Team, implemented an optimization model for room scheduling and assignment under COVID-19 capacity constraints. [Read news report](https://www.engineering.cornell.edu/spotlights/unsung-engineering-behind-cornells-fall-2020-schedule).
 
+## Fun Pictures
+- A mug for ranking top 3 in a Machine Learning challenge at Cornell (thank you Prof. Nathan Kallus). ![Mug Image](https://raw.githubusercontent.com/frankhlchi/frankhlchi.github.io/master/images/cup.jpeg)
+- [Pictures taken at Sydney](https://photos.app.goo.gl/gf6ExbMk4cfWhsmG9)
+- [Pictures taken at Beijing](https://photos.app.goo.gl/67M7jJfmofBNND6Z6)
+- [Pictures taken at New York](https://photos.app.goo.gl/jZDCEw6e4i99eDqL7)
+- [Pictures taken at San Francisco](https://photos.app.goo.gl/4ovGfWAPAWxnZkGj6)
+- [Pictures taken at other places](https://photos.app.goo.gl/s8fqbTa21fNrkhqo8)
+- [Pictures about running](https://photos.app.goo.gl/tpQHiU43DvBeHLm87)
+
+
+
 
 
