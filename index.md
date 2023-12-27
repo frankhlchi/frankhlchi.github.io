@@ -11,23 +11,21 @@ published: true
 - **Google Scholar**: [View my publications](https://scholar.google.com/citations?user=Q8S5vXsAAAAJ&hl=en)
 
 ## Publications
-- **"Active Learning for Graphs with Noisy Structures."**
-  - Authors: Hongliang Chi, Cong Qi, Suhang Wang, Yao Ma
+- [SDM 2024] **"Active Learning for Graphs with Noisy Structures."** 
+  - **Hongliang Chi**, Cong Qi, Suhang Wang, Yao Ma. 
   - [Read the paper](https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_9.pdf)
-  - Conference: SDM 2024
-- **"Enhancing Graph Contrastive Learning with Node Similarity."**
-  - Authors: Hongliang Chi, Yao Ma
+
+- [arXiv 2022] **"Enhancing Graph Contrastive Learning with Node Similarity."** 
+  - **Hongliang Chi**, Yao Ma. 
   - [Read the paper](https://arxiv.org/abs/2208.06743)
-  - Status: arXiv preprint arXiv: 2208.06743, 2022
 
 ## Symposiums and Workshops
-- **"Active Learning for Graphs with Noisy Structures."**
-  - Event: 19th International Workshop on Mining and Learning with Graphs (MLG)
-  - Year: 2023
+- [MLG 2023] **"Active Learning for Graphs with Noisy Structures."**
+  - 19th International Workshop on Mining and Learning with Graphs. 
   - [More Info](https://www.mlgworkshop.org/2023/)
-- **"Enhancing Graph Contrastive Learning with Node Similarity."**
-  - Event: International Conference on Data Mining (SDM) Doctoral Forum, SIAM, Poster
-  - Year: 2022
+
+- [SDM Doctoral Forum 2022] **"Enhancing Graph Contrastive Learning with Node Similarity."**
+  - International Conference on Data Mining (SDM), SIAM, Poster. 
   - [More Info](https://www.siam.org/conferences/cm/program/special-events/sdm22-special-events)
 
 ## Awards
