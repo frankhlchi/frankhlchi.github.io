@@ -1,23 +1,17 @@
+---
+layout: page
+title: Contact
+published: true
+---
 
-# Site settings
-title: Hongliang Chi (Frank)
-email: chih3@rpi.edu
-description: >- 
-  Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute (RPI) under the supervision of Prof. Yao Ma. I received a bachelor's degree in Quantitative Business Analysis and Computer Science from University of Sydney and a master's degree in Operations Research and Information Engineering from Cornell University. I also have work experience at Gap Inc, Cardinal Operations and EY.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://frankhlchi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-avatar: https://github.com/frankhlchi/frankchi.github.io/blob/master/images/profile.jpeg
+## Contact Information
 
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+Here's how you can reach me:
 
-# Personal Information
-linkedin_url: https://www.linkedin.com/in/frank-hongliang-chi/
-github_url: https://github.com/frankhlchi
-google_scholar_url: https://scholar.google.com/citations?user=Q8S5vXsAAAAJ&hl=en
+- **Email**: [chih3@rpi.edu](mailto:chih3@rpi.edu)
+- **LinkedIn**: [Follow me on LinkedIn](https://www.linkedin.com/in/frank-hongliang-chi/)
+- **GitHub**: [Check out my projects](https://github.com/frankhlchi)
+- **Google Scholar**: [View my publications](https://scholar.google.com/citations?user=Q8S5vXsAAAAJ&hl=en)
 
 # Publications
 publications:
