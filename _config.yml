@@ -5,7 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute (RPI) under the supervision of Prof. Yao Ma. I received a bachelor's degree in Quantitative Business Analysis and Computer Science from University of Sydney and a master's degree in Operations Research and Information Engineering from Cornell University. I also have work experience at Gap Inc, Cardinal Operations and EY.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://frankhlchi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-avatar: https://github.com/frankhlchi/frankhlchi.github.io/blob/master/images/bio.jpeg
+avatar: https://raw.githubusercontent.com/frankhlchi/frankhlchi.github.io/master/images/bio.jpeg
 
 # Build settings
 markdown: kramdown
