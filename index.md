@@ -9,7 +9,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 
 - **Email**: [chih3@rpi.edu](mailto:chih3@rpi.edu)
 - **Google Scholar**: [View my publications](https://scholar.google.com/citations?user=Q8S5vXsAAAAJ&hl=en)
-- **LinkedIn**: [Connect me on LinkedIn](https://www.linkedin.com/in/frank-hongliang-chi/)
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/frank-hongliang-chi/)
 - **GitHub**: [Check out my projects](https://github.com/frankhlchi)
 
 
