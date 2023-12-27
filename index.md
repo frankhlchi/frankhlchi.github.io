@@ -7,14 +7,17 @@ published: true
 ## **About Me**
 Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute (RPI) under the supervision of Prof. Yao Ma. I received a bachelor's degree in Quantitative Business Analysis and Computer Science from the University of Sydney and a master's degree in Operations Research and Information Engineering from Cornell University. I also have work experience at Gap Inc, Cardinal Operations, and EY.
 
-## **Research Interest**
-Graph Deep Learning, Data-centric Machine Learning (Active Learning, Data Valuation, Self-Supervised Learning), Machine Learning for Optimization
-
-## Contact Information
 - **Email**: [chih3@rpi.edu](mailto:chih3@rpi.edu)
 - **LinkedIn**: [Follow me on LinkedIn](https://www.linkedin.com/in/frank-hongliang-chi/)
 - **GitHub**: [Check out my projects](https://github.com/frankhlchi)
 - **Google Scholar**: [View my publications](https://scholar.google.com/citations?user=Q8S5vXsAAAAJ&hl=en)
+
+
+## **Research Interest**
+-  Graph Deep Learning
+-  Data-centric Machine Learning (Active Learning, Data Valuation, Self-Supervised Learning)
+- Machine Learning for Optimization
+
 
 ## **Recent News**
 - [12/2023] One paper accepted by SDM2024
