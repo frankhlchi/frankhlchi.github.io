@@ -23,7 +23,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 - [12/2023] Awarded the WSDM travel award
 - [08/2023] Join RPI following my advisor Yao Ma
 - [07/2023] Invitation for Oral Presentation at KDD MLG 2023 for the accepted paper
-- [05/2023] Glad that I passed my Qualifying exam at NJIT.
+- [05/2023] Glad that I passed my PhD qualifying exam at NJIT
 - [08/2022] New preprint “Enhancing Graph Contrastive Learning with Node Similarity”
 - [07/2022] Accepted as a volunteer at KDD22
 - [04/2022] Received the SDM22 Student Travel Award
