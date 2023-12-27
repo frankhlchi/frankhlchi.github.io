@@ -20,7 +20,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 
 ## **News**
 - [12/2023] One paper accepted by SDM2024
-- [12/2023] Awarded the WSDM travel award
+- [12/2023] Awarded ACM WSDM24 Student travel award
 - [08/2023] Join RPI following my advisor Yao Ma
 - [07/2023] Invited for the Oral Presentation at KDD MLG 2023 
 - [05/2023] Glad that I passed my PhD qualifying exam at NJIT
