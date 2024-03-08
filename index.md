@@ -19,7 +19,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 - Machine Learning for Optimization
 
 ## **News**
-- [01/2023] Check out our preprints on [Graph Data Valuation] (https://arxiv.org/pdf/2402.01943.pdf) and [Graph Contrastive Learning Benchmarks] (https://arxiv.org/pdf/2402.15680.pdf)!
+- [01/2024] Check out our preprints on [Graph Data Valuation](https://arxiv.org/pdf/2402.01943.pdf) and [Graph Contrastive Learning Benchmarks](https://arxiv.org/pdf/2402.15680.pdf)!
 - [12/2023] One paper accepted by SDM2024
 - [12/2023] Awarded ACM WSDM24 Student travel award
 - [08/2023] Join RPI following my advisor Yao Ma
