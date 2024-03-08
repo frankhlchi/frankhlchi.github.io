@@ -27,6 +27,14 @@ google_scholar_url: https://scholar.google.com/citations?user=Q8S5vXsAAAAJ&hl=en
 
 # Publications
 publications:
+  - title: "Precedence-Constrained Winter Value for Effective Graph Data Valuation."
+    authors: "Hongliang Chi, Wei Jin, Charu Aggarwal, Yao Ma"
+    link: https://arxiv.org/pdf/2402.01943.pdf
+    status: "arXiv preprint arXiv:2402.01943, 2024"
+  - title: "Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks."
+    authors: "Qian Ma, Hongliang Chi, Hengrui Zhang, Kay Liu, Zhiwei Zhang, Lu Cheng, Suhang Wang, Philip S. Yu, Yao Ma"
+    link: https://arxiv.org/pdf/2402.15680.pdf
+    status: "arXiv preprint arXiv:2402.15680, 2024"
   - title: "Active Learning for Graphs with Noisy Structures."
     authors: "Hongliang Chi, Cong Qi, Suhang Wang, Yao Ma"
     link: https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_9.pdf
