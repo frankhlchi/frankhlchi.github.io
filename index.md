@@ -19,6 +19,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 - Machine Learning for Optimization
 
 ## **News**
+- [01/2023] Check out our preprints on [Graph Data Valuation] (https://arxiv.org/pdf/2402.01943.pdf) and [Graph Contrastive Learning Benchmarks] (https://arxiv.org/pdf/2402.15680.pdf)!
 - [12/2023] One paper accepted by SDM2024
 - [12/2023] Awarded ACM WSDM24 Student travel award
 - [08/2023] Join RPI following my advisor Yao Ma
@@ -35,6 +36,14 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 - [09/2021] Join and be the first student at [Data Analytics and Machine Intelligence (DAMI) Lab](https://dami-lab.github.io/)
 
 ## Publications and Preprints
+- [arXiv 2024] **"Precedence-Constrained Winter Value for Effective Graph Data Valuation."**
+  - **Hongliang Chi**, Wei Jin, Charu Aggarwal, Yao Ma.
+  - [Read the paper](https://arxiv.org/pdf/2402.01943.pdf)
+
+- [arXiv 2024] **"Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks."**
+  - Qian Ma, **Hongliang Chi**, Hengrui Zhang, Kay Liu, Zhiwei Zhang, Lu Cheng, Suhang Wang, Philip S. Yu, Yao Ma.
+  - [Read the paper](https://arxiv.org/pdf/2402.15680.pdf)
+    
 - [SDM 2024] **"Active Learning for Graphs with Noisy Structures."** 
   - **Hongliang Chi**, Cong Qi, Suhang Wang, Yao Ma. 
   - [Read the paper](https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_9.pdf)
