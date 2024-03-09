@@ -69,7 +69,6 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 ## Services 
 - Reviewer, SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024
 - Reviewer, ACM Transactions on Knowledge Discovery from Data (TKDD), 2023
-- Reviewer, ACM Transactions on Knowledge Discovery from Data (TKDD), 2023
 - External Reviewer, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases(ECML PKDD), 2023
 - External Reviewer, The Conference on Information and Knowledge Management (CIKM), 2022
 - Reviewer, Machine Learning on Graphs Workshop at WSDM, 2022
