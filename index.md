@@ -19,6 +19,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 - Machine Learning for Optimization
 
 ## **News**
+- [03/2024] Received the SDM’24 Doctoral Forum Travel Award
 - [01/2024] Check out our preprints on [Graph Data Valuation](https://arxiv.org/pdf/2402.01943.pdf) and [Graph Contrastive Learning Benchmarks](https://arxiv.org/pdf/2402.15680.pdf)!
 - [12/2023] One paper accepted by SDM2024
 - [12/2023] Awarded ACM WSDM24 Student travel award
@@ -62,9 +63,10 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
   - [More Info](https://www.siam.org/conferences/cm/program/special-events/sdm22-special-events)
 
 ## Awards
+- SDM 2024 Doctoral Forum Travel Award
 - WSDM 2024 Student Travel Award
 - WSDM 2022 Student Travel Award
-- SDM 2022 Travel Award
+- SDM 2022 Doctoral Forum Travel Award
 
 ## Services 
 - Reviewer, SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024
