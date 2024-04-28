@@ -47,7 +47,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
     
 - [SDM 2024] **"Active Learning for Graphs with Noisy Structures."** 
   - **Hongliang Chi**, Cong Qi, Suhang Wang, Yao Ma. 
-  - [Read the paper](https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_9.pdf)
+  - [Read the paper](https://epubs.siam.org/doi/10.1137/1.9781611978032.30)
 
 - [arXiv 2022] **"Enhancing Graph Contrastive Learning with Node Similarity."** 
   - **Hongliang Chi**, Yao Ma. 
