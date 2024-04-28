@@ -37,7 +37,7 @@ publications:
     status: "arXiv preprint arXiv:2402.15680, 2024"
   - title: "Active Learning for Graphs with Noisy Structures."
     authors: "Hongliang Chi, Cong Qi, Suhang Wang, Yao Ma"
-    link: https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_9.pdf
+    link: https://epubs.siam.org/doi/10.1137/1.9781611978032.30
     conference: "SDM 2024"
   - title: "Enhancing Graph Contrastive Learning with Node Similarity."
     authors: "Hongliang Chi, Yao Ma"
