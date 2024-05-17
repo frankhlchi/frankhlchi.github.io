@@ -59,7 +59,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
   - 19th International Workshop on Mining and Learning with Graphs (MLG 2023). 
   - [More Info](https://www.mlgworkshop.org/2023/)
 
-- [SDM Doctoral Forum 2022] **"Enhancing Graph Contrastive Learning with Node Similarity."**
+- [SDM Doctoral Forum 2022] **"A General Graph Contrastive Learning Boosting Framework"**
   - International Conference on Data Mining (SDM 2022) Doctoral Forum, SIAM, Poster. 
   - [More Info](https://www.siam.org/conferences/cm/program/special-events/sdm22-special-events)
 
