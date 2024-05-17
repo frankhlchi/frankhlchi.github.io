@@ -19,6 +19,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 - Machine Learning for Optimization
 
 ## **News**
+- [05/2024] One paper accepted by SDM2024
 - [03/2024] Received the SDM’24 Doctoral Forum Travel Award
 - [01/2024] Check out our preprints on [Graph Data Valuation](https://arxiv.org/pdf/2402.01943.pdf) and [Graph Contrastive Learning Benchmarks](https://arxiv.org/pdf/2402.15680.pdf)!
 - [12/2023] One paper accepted by SDM2024
@@ -49,7 +50,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
   - **Hongliang Chi**, Cong Qi, Suhang Wang, Yao Ma. 
   - [Read the paper](https://epubs.siam.org/doi/10.1137/1.9781611978032.30)
 
-- [arXiv 2022] **"Enhancing Graph Contrastive Learning with Node Similarity."** 
+- [KDD 2024] **"Enhancing Graph Contrastive Learning with Node Similarity."** 
   - **Hongliang Chi**, Yao Ma. 
   - [Read the paper](https://arxiv.org/abs/2208.06743)
 
