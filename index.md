@@ -16,7 +16,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 ## **Research Interest**
 - Graph Deep Learning
 - Data-centric Machine Learning (Active Learning, Data Valuation, Self-Supervised Learning etc.)
-- Machine Learning for Optimization
+- Learning to Optimize
 
 ## **News**
 - [05/2024] One paper accepted by KDD2024
