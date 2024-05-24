@@ -19,7 +19,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 - Learning to Optimize
 
 ## **News**
-- [05/2024] Glad to join AT&T Lab as a PhD research intern for Summer 24.
+- [05/2024] Glad to join AT&T Lab as a summer research intern
 - [05/2024] One paper accepted by KDD2024
 - [03/2024] Received the SDM’24 Doctoral Forum Travel Award
 - [01/2024] Check out our preprints on [Graph Data Valuation](https://arxiv.org/pdf/2402.01943.pdf) and [Graph Contrastive Learning Benchmarks](https://arxiv.org/pdf/2402.15680.pdf)!
