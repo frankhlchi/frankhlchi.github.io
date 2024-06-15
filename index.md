@@ -80,9 +80,9 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 - External Reviewer, The Web Conference (WWW), 2022
 
 ## Teaching
-Teaching Assistant, CSCI 2600 Principles of Software, Spring 2024 RPI
-Teaching Assistant, CSCI 1100 Computer Science I, Fall 2023 RPI
-Teaching Assistant, CS 675 Introduction to Machine Learning, Fall 2022 NJIT
+- Teaching Assistant, CSCI 2600 Principles of Software, Spring 2024 RPI
+- Teaching Assistant, CSCI 1100 Computer Science I, Fall 2023 RPI
+- Teaching Assistant, CS 675 Introduction to Machine Learning, Fall 2022 NJIT
 
 ## Volunteering
 - 2022 ACM SIGKDD, Washington DC, U.S., 2022
