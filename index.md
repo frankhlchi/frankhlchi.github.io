@@ -16,7 +16,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 ## **Research Interest**
 - Graph Deep Learning
 - Data-centric Machine Learning (Active Learning, Data Valuation, Self-Supervised Learning etc.)
-- Large Language Models and Decision Making/Learning to Optimize
+- Large Language Models for Decision Making & Learning to Optimize 
 
 ## **News**
 - [05/2024] Glad to join AT&T Labs as a summer research intern
