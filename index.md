@@ -19,6 +19,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 - Large Language Models for Decision Making & Learning to Optimize 
 
 ## **News**
+- [11/2024] Gave an invited talk on Graph Data Valuation at Prof.Mohammad M Amiri's Machine Learning Seminar Class at RPI
 - [05/2024] Glad to join AT&T Labs as a summer research intern
 - [05/2024] One paper accepted by KDD2024
 - [03/2024] Received the SDM’24 Doctoral Forum Travel Award
