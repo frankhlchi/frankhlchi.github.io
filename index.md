@@ -19,7 +19,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 - Large Language Models for Decision Making & Learning to Optimize 
 
 ## **News**
-- [01/2025] Two papers on graph data valuation [Graph Training Data Valuation](https://arxiv.org/pdf/2402.01943.pdf) [Graph Inference Data Valuation](https://openreview.net/pdf?id=8X74NZpARg) accepted by ICLR 2025.
+- [01/2025] Two papers on graph data valuation, [Graph Training Data Valuation](https://arxiv.org/pdf/2402.01943.pdf) and [Graph Inference Data Valuation](https://openreview.net/pdf?id=8X74NZpARg), accepted by ICLR 2025.
 - [11/2024] Gave an invited talk on Graph Data Valuation at Prof.Mohammad M Amiri's Machine Learning Seminar Class
 - [05/2024] Glad to join AT&T Labs as a summer research intern
 - [05/2024] One paper accepted by KDD2024
