@@ -14,9 +14,11 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 
 
 ## **Research Interest**
-- Large Language Models for Decision Making & Optimization for Large Language Models
+- Optimization for Large Language Models
+- Large Language Models for Decision Making 
 - Data-centric Machine Learning (Active Learning, Data Valuation, Self-Supervised Learning etc.)
 - Graph Deep Learning
+- Operations Research/Optimization
 
 ## **News**
 - [01/2025] Two papers on graph data valuation, [Graph Training Data Valuation](https://arxiv.org/pdf/2402.01943.pdf) and [Graph Inference Data Valuation](https://openreview.net/pdf?id=8X74NZpARg), accepted by ICLR 2025
