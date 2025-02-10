@@ -21,7 +21,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 - Operations Research/Optimization
 
 ## **News**
-- [02/2025] Check out our preprints on [Data Valuation with Sequential Decision Making/Approximate Dynamic Programming](https://arxiv.org/pdf/2502.04554)
+- [02/2025] Check out our preprints on [Data Valuation with Sequential Decision Making](https://arxiv.org/pdf/2502.04554)
 - [01/2025] Two papers on graph data valuation, [Graph Training Data Valuation](https://arxiv.org/pdf/2402.01943.pdf) and [Graph Inference Data Valuation](https://openreview.net/pdf?id=8X74NZpARg), accepted by ICLR 2025
 - [11/2024] Gave an invited talk on Graph Data Valuation at Prof.Mohammad M Amiri's Machine Learning Seminar Class
 - [05/2024] Glad to join AT&T Labs as a summer research intern
