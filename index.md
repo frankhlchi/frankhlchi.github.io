@@ -43,22 +43,33 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 - [09/2021] Join and be the first student at [Data Analytics and Machine Intelligence (DAMI) Lab](https://dami-lab.github.io/)
 
 ## Publications and Preprints
-- [arXiv 2024] **"Precedence-Constrained Winter Value for Effective Graph Data Valuation."**
+
+- [arXiv 2025] **"Unifying and Optimizing Data Values for Selection via
+  Sequential-Decision-Making."**
+  - **Hongliang Chi**, Qiong Wu, Zhengyi Zhou, Jonathan Light, Emily Dodwell, Yao Ma.
+  - [Read the paper](https://arxiv.org/pdf/2402.15680.pdf)
+ 
+
+- [ICLR 2025] **"Precedence-Constrained Winter Value for Effective Graph Data Valuation."**
   - **Hongliang Chi**, Wei Jin, Charu Aggarwal, Yao Ma.
   - [Read the paper](https://arxiv.org/pdf/2402.01943.pdf)
 
-- [arXiv 2024] **"Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks."**
-  - Qian Ma, **Hongliang Chi**, Hengrui Zhang, Kay Liu, Zhiwei Zhang, Lu Cheng, Suhang Wang, Philip S. Yu, Yao Ma.
-  - [Read the paper](https://arxiv.org/pdf/2402.15680.pdf)
- 
-- [KDD 2024] **"Enhancing Graph Contrastive Learning with Node Similarity."** 
-  - **Hongliang Chi**, Yao Ma. 
-  - [Read the paper](https://dl.acm.org/doi/10.1145/3637528.3671898)
-    
+- [ICLR 2024] **"Shapley-Guided Utility Learning for Effective Graph Inference Data Valuation."**
+  - **Hongliang Chi**, Qiong Wu, Zhengyi Zhou, Yao Ma.
+  - [Read the paper]((https://openreview.net/pdf?id=8X74NZpARg)
+
 - [SDM 2024] **"Active Learning for Graphs with Noisy Structures."** 
   - **Hongliang Chi**, Cong Qi, Suhang Wang, Yao Ma. 
   - [Read the paper](https://epubs.siam.org/doi/10.1137/1.9781611978032.30)
 
+- [KDD 2024] **"Enhancing Graph Contrastive Learning with Node Similarity."** 
+  - **Hongliang Chi**, Yao Ma. 
+  - [Read the paper](https://dl.acm.org/doi/10.1145/3637528.3671898)
+    
+- [arXiv 2024] **"Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks."**
+  - Qian Ma, **Hongliang Chi**, Hengrui Zhang, Kay Liu, Zhiwei Zhang, Lu Cheng, Suhang Wang, Philip S. Yu, Yao Ma.
+  - [Read the paper](https://arxiv.org/pdf/2402.15680.pdf)
+ 
 
 
 ## Symposiums and Workshops
