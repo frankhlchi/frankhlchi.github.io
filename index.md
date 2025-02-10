@@ -17,7 +17,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 - Optimization for Large Language Models
 - Large Language Models for Decision Making 
 - Data-centric AI (Active Learning, Data Valuation, Self-Supervised Learning etc.)
-- Graph Learning
+- Graph Learning/Graph Neural Networks
 - Operations Research/Optimization/Approximate Dynamic Programming
 
 ## **News**
