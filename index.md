@@ -21,13 +21,14 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 - Operations Research/Optimization
 
 ## **News**
+- [02/2025] Check out our preprints on [Data Valuation with Sequential Decision Making/Approximate Dynamic Programming](https://arxiv.org/pdf/2402.01943.pdf)
 - [01/2025] Two papers on graph data valuation, [Graph Training Data Valuation](https://arxiv.org/pdf/2402.01943.pdf) and [Graph Inference Data Valuation](https://openreview.net/pdf?id=8X74NZpARg), accepted by ICLR 2025
 - [11/2024] Gave an invited talk on Graph Data Valuation at Prof.Mohammad M Amiri's Machine Learning Seminar Class
 - [05/2024] Glad to join AT&T Labs as a summer research intern
-- [05/2024] One paper accepted by KDD2024
+- [05/2024] One paper about Self-supervised Learning accepted by KDD2024
 - [03/2024] Received the SDM’24 Doctoral Forum Travel Award
 - [01/2024] Check out our preprints on [Graph Data Valuation](https://arxiv.org/pdf/2402.01943.pdf) and [Graph Contrastive Learning Benchmarks](https://arxiv.org/pdf/2402.15680.pdf)!
-- [12/2023] One paper accepted by SDM2024
+- [12/2023] One paper about Active Learning accepted by SDM2024
 - [12/2023] Awarded ACM WSDM24 Student travel award
 - [08/2023] Join RPI following my advisor Yao Ma
 - [07/2023] Invited for the Oral Presentation at KDD MLG 2023 
@@ -56,7 +57,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 
 - [ICLR 2024] **"Shapley-Guided Utility Learning for Effective Graph Inference Data Valuation."**
   - **Hongliang Chi**, Qiong Wu, Zhengyi Zhou, Yao Ma.
-  - [Read the paper]((https://openreview.net/pdf?id=8X74NZpARg)
+  - [Read the paper](https://openreview.net/pdf?id=8X74NZpARg)
 
 - [SDM 2024] **"Active Learning for Graphs with Noisy Structures."** 
   - **Hongliang Chi**, Cong Qi, Suhang Wang, Yao Ma. 
