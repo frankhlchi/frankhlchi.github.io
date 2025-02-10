@@ -18,7 +18,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 - Large Language Models for Decision Making 
 - Data-centric AI (Active Learning, Data Valuation, Self-Supervised Learning etc.)
 - Graph Learning
-- Operations Research/Optimization
+- Operations Research/Optimization/Approximate Dynamic Programming
 
 ## **News**
 - [02/2025] Check out our preprints on [Data Valuation with Sequential Decision Making](https://arxiv.org/pdf/2502.04554)
