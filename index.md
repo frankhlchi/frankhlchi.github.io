@@ -21,7 +21,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 - Operations Research/Optimization/Approximate Dynamic Programming
 
 ## **News**
-- [02/2025] Check out our preprints on [Data Valuation with Sequential Decision Making](https://arxiv.org/pdf/2502.04554)
+- [02/2025] Check out our preprint on [Data Valuation with Sequential Decision Making](https://arxiv.org/pdf/2502.04554)
 - [01/2025] Two papers on graph data valuation, [Graph Training Data Valuation](https://arxiv.org/pdf/2402.01943.pdf) and [Graph Inference Data Valuation](https://openreview.net/pdf?id=8X74NZpARg), accepted by ICLR 2025
 - [11/2024] Gave an invited talk on Graph Data Valuation at Prof.Mohammad M Amiri's Machine Learning Seminar Class
 - [05/2024] Glad to join AT&T Labs as a summer research intern
@@ -54,7 +54,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
   - **Hongliang Chi**, Wei Jin, Charu Aggarwal, Yao Ma.
   - [Read the paper](https://arxiv.org/pdf/2402.01943.pdf)
 
-- [ICLR 2024] **"Shapley-Guided Utility Learning for Effective Graph Inference Data Valuation."**
+- [ICLR 2025] **"Shapley-Guided Utility Learning for Effective Graph Inference Data Valuation."**
   - **Hongliang Chi**, Qiong Wu, Zhengyi Zhou, Yao Ma.
   - [Read the paper](https://openreview.net/pdf?id=8X74NZpARg)
 
