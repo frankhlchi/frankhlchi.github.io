@@ -50,8 +50,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
   - **Hongliang Chi**, Qiong Wu, Zhengyi Zhou, Jonathan Light, Emily Dodwell, Yao Ma.
   - [Read the paper](https://arxiv.org/pdf/2502.04554.pdf)
 
-
- - [ICLR 2025] **"Precedence-Constrained Winter Value for Effective Graph Data Valuation."**
+- [ICLR 2025] **"Precedence-Constrained Winter Value for Effective Graph Data Valuation."**
   - **Hongliang Chi**, Wei Jin, Charu Aggarwal, Yao Ma.
   - [Read the paper](https://arxiv.org/pdf/2402.01943.pdf) | [Code](https://github.com/frankhlchi/graph-data-valuation)
 
