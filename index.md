@@ -48,7 +48,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 - [arXiv 2025] **"Unifying and Optimizing Data Values for Selection via
   Sequential-Decision-Making."**
   - **Hongliang Chi**, Qiong Wu, Zhengyi Zhou, Jonathan Light, Emily Dodwell, Yao Ma.
-  - [Read the paper](https://arxiv.org/pdf/2502.04554.pdf)
+  - [Read the paper](https://arxiv.org/pdf/2502.04554.pdf)  & [Code is being prepared]
 
 - [ICLR 2025] **"Precedence-Constrained Winter Value for Effective Graph Data Valuation."**
   - **Hongliang Chi**, Wei Jin, Charu Aggarwal, Yao Ma.
