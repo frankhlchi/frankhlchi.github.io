@@ -5,7 +5,7 @@ published: true
 ---
 
 ## **About Me**
-Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute (RPI) under the supervision of [Prof. Yao Ma](https://yaoma24.github.io/). I received a bachelor's degree in Quantitative Business Analysis and Computer Science from the University of Sydney and a master's degree in Operations Research and Information Engineering from Cornell Tech, Cornell University . I also have work experience at Gap Inc, Cardinal Operations, and EY.
+Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute (RPI) under the supervision of [Prof. Yao Ma](https://yaoma24.github.io/). I received a bachelor's degree in Quantitative Business Analysis and Computer Science from the University of Sydney and a master's degree in Operations Research and Information Engineering from Cornell Tech, Cornell University. I also have work experience at Gap Inc, Cardinal Operations, and EY.
 
 - **Email**: [chih3@rpi.edu](mailto:chih3@rpi.edu)
 - **Google Scholar**: [View my publications](https://scholar.google.com/citations?user=Q8S5vXsAAAAJ&hl=en)
@@ -36,7 +36,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 - [08/2022] New preprint “Enhancing Graph Contrastive Learning with Node Similarity”
 - [07/2022] Accepted as a volunteer at KDD22
 - [04/2022] Received the SDM22 Student Travel Award
-- [03/2022] Accepted to present my research at **SDM’22 Doctoral Forum**
+- [03/2022] Accepted to present my research at **SDM 2022** Doctoral Forum
 - [03/2022] Invited to serve as an external reviewer for ACM SIGKDD 2022
 - [01/2022] Invited to serve as a PC member for WSDM2022-MLoG (Machine Learning on Graphs Workshop at WSDM’22)
 - [12/2021] Received the ACM WSDM22 Student Travel Award
