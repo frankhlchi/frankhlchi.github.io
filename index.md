@@ -14,8 +14,9 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 
 
 ## **Research Interest**
-- Optimization for Large Language Models
-- Large Language Models for Decision Making 
+- Intersection between AI and Operations Research
+- LLM for Decision-Making/Optimization Modelling
+- Data Optimization for LLM 
 - Data-centric AI (Active Learning, Data Valuation, Self-Supervised Learning etc.)
 - Graph Learning/Graph Neural Networks
 - Operations Research/Optimization/Approximate Dynamic Programming
