@@ -96,6 +96,7 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 - SDM 2022 Doctoral Forum Travel Award
 
 ## Services 
+- Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2025
 - Reviewer, SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024 - 2025
 - Reviewer, ACM Transactions on Knowledge Discovery from Data (TKDD), 2023 - 2025
 - Reviewer, The International Conference on Learning Representations (ICLR) 2024
