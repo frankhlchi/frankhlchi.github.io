@@ -67,7 +67,11 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 - [KDD 2024] **"Enhancing Graph Contrastive Learning with Node Similarity."** 
   - **Hongliang Chi**, Yao Ma. 
   - [Read the paper](https://dl.acm.org/doi/10.1145/3637528.3671898) & [Code](https://github.com/frankhlchi/SimEnhancedGCL)
-    
+
+- [arXiv 2025] **"Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking."**
+  - Liangliang Zhang, Zhuorui Jiang, **Hongliang Chi**, Haoyang Chen, Mohammed Elkoumy, Fali Wang, Qiong Wu, Zhengyi Zhou, Shirui Pan, Suhang Wang, Yao Ma.
+  - [Read the paper](https://arxiv.org/pdf/2505.23495)
+
 - [arXiv 2024] **"Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks."**
   - Qian Ma, **Hongliang Chi**, Hengrui Zhang, Kay Liu, Zhiwei Zhang, Lu Cheng, Suhang Wang, Philip S. Yu, Yao Ma.
   - [Read the paper](https://arxiv.org/pdf/2402.15680.pdf)
