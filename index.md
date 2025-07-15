@@ -22,8 +22,8 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 
 ## **News**
 - [05/2025] Glad to join ***IBM*** as a visiting student researcher
-- [05/2025] Our poster "Graph Data Valuation: From Training to Inference Values" received a *honorable mention poster award* at SDM conference
-- [05/2025] Received *Commendable Reviewer* recognition from [KDD 2025 Program Committee](https://kdd2025.kdd.org/applied-data-science-ads-track-program-committee/).
+- [05/2025] Our poster "Graph Data Valuation: From Training to Inference Values" received a honorable mention poster award at SDM conference
+- [05/2025] Received Commendable Reviewer recognition from [KDD 2025 Program Committee](https://kdd2025.kdd.org/applied-data-science-ads-track-program-committee/).
 - [02/2025] Check out our preprint on [Data Valuation with Sequential Decision Making](https://arxiv.org/pdf/2502.04554)
 - [01/2025] Two papers [Graph Training Data Valuation](https://arxiv.org/pdf/2402.01943.pdf) and [Graph Inference Data Valuation](https://openreview.net/pdf?id=8X74NZpARg), accepted by **ICLR 2025**
 - [11/2024] Gave an invited talk on Graph Data Valuation at Prof.Mohammad M Amiri's Machine Learning Seminar Class
