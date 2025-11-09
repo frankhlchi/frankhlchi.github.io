@@ -15,14 +15,15 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 
 ## **Research Interest**
 - Intersection between AI and Operations Research (OR)
-- LLM for Decision-Making/Optimization Modelling & Data Optimization for LLM 
+- LLM for Decision-Making/Optimization Modelling & Data Optimization for LLM
+- RAG, Knowledge Graphs for LLMs
 - Data-centric AI (Active Learning, Data Valuation, Self-Supervised Learning etc.)
 - Graph Learning/Graph Neural Networks
 - Operations Research/Optimization/Approximate Dynamic Programming
 
 ## **News**
 - [10/2025] Excited to share that I passed my dissertation defense
-- [10/2025] One paper accepted by **NeurIPs 2025**, congrats to Liangliang
+- [10/2025] One paper accepted by **NeurIPs 2025**
 - [09/2025] Glad to join ***Amazon*** as an applied scientist intern
 - [05/2025] Glad to join ***IBM*** as a visiting student researcher
 - [05/2025] Our poster "Graph Data Valuation: From Training to Inference Values" received a honorable mention poster award at SDM conference
