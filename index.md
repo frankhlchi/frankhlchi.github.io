@@ -20,7 +20,10 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 - Graph Learning/Graph Neural Networks
 - Operations Research/Optimization/Approximate Dynamic Programming
 
-## **News**
+## **News**]
+- [10/2025] Excited to share that I passed my dissertation defense
+- [10/2025] One paper accepted by **NeurIPs 2025**, congrats to Liangliang
+- [09/2025] Glad to join ***Amazon*** as an applied scientist intern
 - [05/2025] Glad to join ***IBM*** as a visiting student researcher
 - [05/2025] Our poster "Graph Data Valuation: From Training to Inference Values" received a honorable mention poster award at SDM conference
 - [05/2025] Received Commendable Reviewer recognition from [KDD 2025 Program Committee](https://kdd2025.kdd.org/applied-data-science-ads-track-program-committee/).
