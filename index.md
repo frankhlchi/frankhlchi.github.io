@@ -5,7 +5,7 @@ published: true
 ---
 
 ## **About Me**
-Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute (RPI) under the supervision of [Prof. Yao Ma](https://yaoma24.github.io/). I received a bachelor's degree in Quantitative Business Analysis and Computer Science from the University of Sydney and a master's degree in Operations Research and Information Engineering from Cornell Tech, Cornell University. I also have work experience at Gap Inc, Cardinal Operations, and EY.
+Hi! I'm a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute (RPI) under the supervision of [Prof. Yao Ma](https://yaoma24.github.io/). I received a bachelor's degree in Quantitative Business Analysis and Computer Science from the University of Sydney and a master's degree in Operations Research and Information Engineering from Cornell Tech, Cornell University. I also have work experience at Gap Inc, Cardinal Operations, and EY.
 
 - **Email**: [chih3@rpi.edu](mailto:chih3@rpi.edu)
 - **Google Scholar**: [View my publications](https://scholar.google.com/citations?user=Q8S5vXsAAAAJ&hl=en)
@@ -34,22 +34,10 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 - [11/2024] Gave an invited talk on Graph Data Valuation at Prof.Mohammad M Amiri's Machine Learning Seminar Class
 - [05/2024] Glad to join ***AT&T Labs*** as a summer research intern
 - [05/2024] One paper about Self-supervised Learning accepted by **KDD 2024**
-- [03/2024] Received the SDM’24 Doctoral Forum Travel Award
+- [03/2024] Received the SDM'24 Doctoral Forum Travel Award
 - [01/2024] Check out our preprints on [Graph Data Valuation](https://arxiv.org/pdf/2402.01943.pdf) and [Graph Contrastive Learning Benchmarks](https://arxiv.org/pdf/2402.15680.pdf)!
-- [12/2023] One paper about Active Learning accepted by **SDM 2024**
-- [12/2023] Awarded ACM WSDM24 Student travel award
-- [08/2023] Join RPI following my advisor Yao Ma
-- [07/2023] Invited for the Oral Presentation at **KDD MLG 2023**
-- [05/2023] Glad that I passed my PhD qualifying exam at NJIT
-- [08/2022] New preprint “Enhancing Graph Contrastive Learning with Node Similarity”
-- [07/2022] Accepted as a volunteer at KDD22
-- [04/2022] Received the SDM22 Student Travel Award
-- [03/2022] Accepted to present my research at **SDM 2022 Doctoral Forum**
-- [03/2022] Invited to serve as an external reviewer for ACM SIGKDD 2022
-- [01/2022] Invited to serve as a PC member for WSDM2022-MLoG (Machine Learning on Graphs Workshop at WSDM’22)
-- [12/2021] Received the ACM WSDM22 Student Travel Award
-- [11/2021] Served as a subreviewer for The Web Conference 2022
-- [09/2021] Join and be the first student at [Data Analytics and Machine Intelligence (DAMI) Lab](https://dami-lab.github.io/)
+
+[View earlier news (2021-2023) →](/news-archive)
 
 ## Publications and Preprints
 
@@ -122,15 +110,9 @@ Hi! I’m a Ph.D. student of Computer Science at Rensselaer Polytechnic Institut
 ## Volunteering
 - 2022 ACM SIGKDD, Washington DC, U.S., 2022
 - Cornell Course Roster Scheduling under COVID-19 Emergency, 2020
-  - Details: Member of Cornell’s Roster Team, implemented an optimization model for room scheduling and assignment under COVID-19 capacity constraints. [Read news report](https://www.engineering.cornell.edu/spotlights/unsung-engineering-behind-cornells-fall-2020-schedule).
+  - Details: Member of Cornell's Roster Team, implemented an optimization model for room scheduling and assignment under COVID-19 capacity constraints. [Read news report](https://www.engineering.cornell.edu/spotlights/unsung-engineering-behind-cornells-fall-2020-schedule).
 
 ## Fun Pictures
 - Pictures taken at various cities: [Sydney](https://photos.app.goo.gl/gf6ExbMk4cfWhsmG9), [Beijing](https://photos.app.goo.gl/67M7jJfmofBNND6Z6), [New York](https://photos.app.goo.gl/c5b1fhyLY6fseUas8), [San Francisco](https://photos.app.goo.gl/4ovGfWAPAWxnZkGj6), [Other Places](https://photos.app.goo.gl/s8fqbTa21fNrkhqo8)
 - Running Related [Pictures](https://photos.app.goo.gl/tpQHiU43DvBeHLm87), Travel Related [Pictures](https://photos.app.goo.gl/w4JamHcr6cRLCH9c8)
 - A mug for ranking top 3 in a Machine Learning challenge at Cornell (thank you Prof. Nathan Kallus). [Mug Image](https://photos.app.goo.gl/kK7SMGP1oANN9WE97)
-  
-
-
-
-
-
