@@ -37,7 +37,7 @@ Hi! I'm a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute 
 - [03/2024] Received the SDM'24 Doctoral Forum Travel Award
 - [01/2024] Check out our preprints on [Graph Data Valuation](https://arxiv.org/pdf/2402.01943.pdf) and [Graph Contrastive Learning Benchmarks](https://arxiv.org/pdf/2402.15680.pdf)!
 
-[View earlier news (2021-2023) →](/news-archive)
+[Earlier news](/news-archive)
 
 ## Publications and Preprints
 
