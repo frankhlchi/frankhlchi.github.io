@@ -5,7 +5,7 @@ published: true
 ---
 
 ## **About Me**
-Hi! I'm a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute (RPI) under the supervision of [Prof. Yao Ma](https://yaoma24.github.io/). I received a bachelor's degree in Quantitative Business Analysis and Computer Science from the University of Sydney and a master's degree in Operations Research and Information Engineering from Cornell Tech, Cornell University. I also have work experience at Gap Inc, Cardinal Operations, and EY.
+Hi! I'm a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute (RPI) under the supervision of [Prof. Yao Ma](https://yaoma24.github.io/). I received a bachelor's degree in Quantitative Business Analysis and Computer Science from the University of Sydney and a master's degree in Operations Research and Information Engineering from Cornell Tech, Cornell University. I also have work experience at Gap Inc., Cardinal Operations, and EY.
 
 - **Email**: [chih3@rpi.edu](mailto:chih3@rpi.edu)
 - **Google Scholar**: [View my publications](https://scholar.google.com/citations?user=Q8S5vXsAAAAJ&hl=en)
