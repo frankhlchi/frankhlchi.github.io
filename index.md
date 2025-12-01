@@ -15,7 +15,7 @@ Hi! I'm a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute 
 
 ## **Research Interest**
 - Intersection between AI and Operations Research (OR)
-- LLM for Decision-Making/Optimization Modelling & Data Optimization for LLM
+- LLM for Decision-Making & Data Optimization for LLM
 - RAG, Text-to-SQL, Information Retrieval for LLM
 - Data-centric AI (Active Learning, Data Valuation, Self-Supervised Learning etc.)
 - Graph Learning/Graph Neural Networks
