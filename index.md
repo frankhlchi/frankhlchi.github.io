@@ -96,7 +96,7 @@ Hi! I'm a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute 
 - Reviewer, The ACM Web Conference (WWW) 2026
 - Reviewer, Conference on Neural Information Processing Systems (NeurIPS) 2025
 - Reviewer, SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2024 - 2025
-- Reviewer, Transactions on Machine Learning Research (TMLR)
+- Reviewer, Transactions on Machine Learning Research (TMLR) 2025
 - Reviewer, IEEE BigData 2025 
 - Reviewer, ACM Transactions on Knowledge Discovery from Data (TKDD) 2024 
 - Reviewer, IEEE Transactions on Knowledge and Data Engineering (TKDE) 2024
