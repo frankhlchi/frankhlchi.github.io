@@ -92,11 +92,13 @@ Hi! I'm a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute 
 - SDM 2022 Doctoral Forum Travel Award
 
 ## Services 
-- Reviewer, Conference on Neural Information Processing Systems (NeurIPS), 2025 - Now
-- Reviewer, The International Conference on Learning Representations (ICLR) 2024 - Now
-- Reviewer, SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024 - Now
-- Reviewer, ACM Transactions on Knowledge Discovery from Data (TKDD), 2023 - Now
-- Reviewer, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024
+- The ACM Web Conference (WWW) 2026
+- Reviewer, The International Conference on Learning Representations (ICLR) 2025 - 2026
+- Reviewer, Conference on Neural Information Processing Systems (NeurIPS) 2025
+- Reviewer, SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2024 - 2025
+- Reviewer, IEEE BigData 2025 
+- Reviewer, ACM Transactions on Knowledge Discovery from Data (TKDD) 2024 
+- Reviewer, IEEE Transactions on Knowledge and Data Engineering (TKDE) 2024
 
 ## Teaching
 - Head Teaching Assistant,  Machine Learning From Data (CSCI 4100/6100), Fall 2024 RPI
