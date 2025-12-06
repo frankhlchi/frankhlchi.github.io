@@ -75,7 +75,7 @@ Hi! I'm a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute 
   - [Read the paper](https://arxiv.org/pdf/2402.15680.pdf)
  
 ## Symposiums and Workshops
-- [International Workshop on Mining and Learning with Graphs] **"Active Learning for Graphs with Noisy Structures."**
+- [MLG 2023] **"Active Learning for Graphs with Noisy Structures."**
   - 19th International Workshop on Mining and Learning with Graphs (MLG 2023). 
   - [More Info](https://www.mlgworkshop.org/2023/)
 
