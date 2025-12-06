@@ -36,7 +36,7 @@ Hi! I'm a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute 
 - [05/2024] Glad to join ***AT&T Labs*** as a summer research intern
 - [05/2024] One paper about Self-supervised Learning accepted by **KDD 2024**
 - [03/2024] Received the SDM'24 Doctoral Forum Travel Award
-- [01/2024] Check out our preprints on [Graph Data Valuation](https://arxiv.org/pdf/2402.01943.pdf) and [Graph Contrastive Learning Benchmarks](https://arxiv.org/pdf/2402.15680.pdf)!
+- [01/2024] Check out our preprints on Graph Data Valuation and Graph Contrastive Learning Benchmarks
 - [12/2023] One paper about Active Learning accepted by **SDM 2024** and [earlier news](/news-archive)
 
 ## Publications and Preprints
