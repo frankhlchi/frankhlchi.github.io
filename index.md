@@ -26,13 +26,13 @@ Hi! I'm a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute 
 - [10/2025] Excited to share that I passed my dissertation defense
 - [10/2025] One paper accepted by **NeurIPs 2025**
 - [09/2025] Glad to join ***Amazon*** as an applied scientist intern
-- [05/2025] Glad to join ***IBM Watson Research Center*** as a visiting student researcher
+- [05/2025] Glad to join ***IBM Watson Research Center*** as a research extern
 - [05/2025] Excited to deliver a talk as the keynote speaker at the [DS2MH Workshop](https://ds2mh.github.io/dssmh25/) at SDM 2025
 - [05/2025] Our poster "Graph Data Valuation: From Training to Inference Values" received a SDM honorable mention poster award 
 - [05/2025] Received Commendable Reviewer recognition from KDD 2025 Program Committee.
 - [02/2025] Check out our preprint on [Data Valuation with Sequential Decision Making](https://arxiv.org/pdf/2502.04554)
 - [01/2025] Two papers [Graph Training Data Valuation](https://arxiv.org/pdf/2402.01943.pdf) and [Graph Inference Data Valuation](https://openreview.net/pdf?id=8X74NZpARg), accepted by **ICLR 2025**
-- [11/2024] Gave an invited talk on Graph Data Valuation at Prof.Mohammad M Amiri's Machine Learning Seminar Class
+- [11/2024] Gave an invited talk on Graph Data Valuation at Prof. Mohammad M Amiri's Machine Learning Seminar 
 - [05/2024] Glad to join ***AT&T Labs*** as a summer research intern
 - [05/2024] One paper about Self-supervised Learning accepted by **KDD 2024**
 - [03/2024] Received the SDM'24 Doctoral Forum Travel Award
