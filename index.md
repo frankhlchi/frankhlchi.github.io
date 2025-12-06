@@ -64,6 +64,7 @@ Hi! I'm a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute 
 
 - [NDSS 2026] **"In-Context Probing for Membership Inference in Fine-Tuned Language Models."**
   - Zhexi Lu, **Hongliang Chi**, Nathalie Baracaldo, Swanand Ravindra Kadhe, Yuseok Jeon, Lei Yu.
+  - [Read the paper]
 
 - [NeurIPs 2025] **"Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking."**
   - Liangliang Zhang, Zhuorui Jiang, **Hongliang Chi**, Haoyang Chen, Mohammed Elkoumy, Fali Wang, Qiong Wu, Zhengyi Zhou, Shirui Pan, Suhang Wang, Yao Ma.
