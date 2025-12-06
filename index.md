@@ -22,6 +22,7 @@ Hi! I'm a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute 
 - Operations Research/Optimization/Approximate Dynamic Programming
 
 ## **News**
+- [12/2025] One paper accepted by **NDSS 2026**
 - [10/2025] Excited to share that I passed my dissertation defense
 - [10/2025] One paper accepted by **NeurIPs 2025**
 - [09/2025] Glad to join ***Amazon*** as an applied scientist intern
@@ -60,6 +61,9 @@ Hi! I'm a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute 
 - [KDD 2024] **"Enhancing Graph Contrastive Learning with Node Similarity."** 
   - **Hongliang Chi**, Yao Ma. 
   - [Read the paper](https://dl.acm.org/doi/10.1145/3637528.3671898) & [Code](https://github.com/frankhlchi/SimEnhancedGCL)
+
+- [NDSS 2026] **"In-Context Probing for Membership Inference in Fine-Tuned Language Models."**
+  - Zhexi Lu, **Hongliang Chi**, Nathalie Baracaldo, Swanand Ravindra Kadhe, Yuseok Jeon, Lei Yu.
 
 - [NeurIPs 2025] **"Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking."**
   - Liangliang Zhang, Zhuorui Jiang, **Hongliang Chi**, Haoyang Chen, Mohammed Elkoumy, Fali Wang, Qiong Wu, Zhengyi Zhou, Shirui Pan, Suhang Wang, Yao Ma.
