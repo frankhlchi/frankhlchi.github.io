@@ -62,8 +62,6 @@ Hi! I'm a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute 
   - **Hongliang Chi**, Yao Ma. 
   - [Read the paper](https://dl.acm.org/doi/10.1145/3637528.3671898) & [Code](https://github.com/frankhlchi/SimEnhancedGCL)
 
----
-
 - [NDSS 2026] **"In-Context Probing for Membership Inference in Fine-Tuned Language Models."**
   - Zhexi Lu, **Hongliang Chi**, Nathalie Baracaldo, Swanand Ravindra Kadhe, Yuseok Jeon, Lei Yu.
   - [Read the paper]
