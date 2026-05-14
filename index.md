@@ -22,6 +22,7 @@ Hi! I'm a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute 
 - Operations Research/Optimization/Approximate Dynamic Programming
 
 ## **News**
+- [05/2026] One paper accepted by **ICML 2026** as a **Spotlight**
 - [12/2025] One paper accepted by **NDSS 2026**
 - [10/2025] Excited to share that I passed my dissertation defense
 - [10/2025] One paper accepted by **NeurIPs 2025**
@@ -41,7 +42,7 @@ Hi! I'm a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute 
 
 ## Publications and Preprints
 
-- [arXiv 2025] **"Unifying and Optimizing Data Values for Selection via
+- [ICML 2026 Spotlight] **"Unifying and Optimizing Data Values for Selection via
   Sequential-Decision-Making."**
   - **Hongliang Chi**, Qiong Wu, Zhengyi Zhou, Jonathan Light, Emily Dodwell, Yao Ma.
   - [Read the paper](https://arxiv.org/pdf/2502.04554.pdf)  & [Code](https://github.com/frankhlchi/SequentialDataVal)
