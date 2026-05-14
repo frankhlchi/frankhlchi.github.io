@@ -5,7 +5,7 @@ published: true
 ---
 
 ## **About Me**
-Hi! I'm a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute (RPI) under the supervision of [Prof. Yao Ma](https://yaoma24.github.io/). I received a bachelor's degree in Quantitative Business Analysis and Computer Science from the University of Sydney and a master's degree in Operations Research and Information Engineering from Cornell Tech, Cornell University. I also have work experience at Gap Inc., Cardinal Operations, and EY.
+Hi! I'm a Research Scientist at IBM Research (Yorktown Heights). I received my Ph.D. in Computer Science from Rensselaer Polytechnic Institute (RPI) under the supervision of [Prof. Yao Ma](https://yaoma24.github.io/). I received a bachelor's degree in Quantitative Business Analysis and Computer Science from the University of Sydney and a master's degree in Operations Research and Information Engineering from Cornell Tech, Cornell University. I also have work experience at Gap Inc., Cardinal Operations, and EY.
 
 - **Email**: [hc962@cornell.edu](mailto:hc962@cornell.edu)
 - **Google Scholar**: [View my publications](https://scholar.google.com/citations?user=Q8S5vXsAAAAJ&hl=en)
@@ -22,7 +22,8 @@ Hi! I'm a Ph.D. student of Computer Science at Rensselaer Polytechnic Institute 
 - Operations Research/Optimization/Approximate Dynamic Programming
 
 ## **News**
-- [05/2026] One paper accepted by **ICML 2026** as a **Spotlight🌟**
+- [05/2026] 🌟 One paper accepted by **ICML 2026** as a **Spotlight**
+- [02/2026] 🎉 Joined IBM Research (Yorktown Heights) as a Research Scientist
 - [12/2025] One paper accepted by **NDSS 2026**
 - [10/2025] Excited to share that I passed my dissertation defense
 - [10/2025] One paper accepted by **NeurIPs 2025**
