@@ -22,8 +22,8 @@ Hi! I'm a Research Scientist at IBM Research at Thomas J. Watson Research Center
 - Operations Research/Optimization/Approximate Dynamic Programming
 
 ## **News**
-- [05/2026] 🌟 One paper accepted by **ICML 2026** as a **Spotlight**
-- [02/2026] 🎉 Joined IBM Thomas J. Watson Research Center as a Research Scientist
+- [05/2026] One paper accepted by **ICML 2026** as a **Spotlight** 🌟 
+- [02/2026] Joined IBM Thomas J. Watson Research Center as a Research Scientist
 - [12/2025] One paper accepted by **NDSS 2026**
 - [10/2025] Excited to share that I passed my dissertation defense
 - [10/2025] One paper accepted by **NeurIPs 2025**
