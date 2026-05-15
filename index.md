@@ -72,7 +72,7 @@ Hi! I'm a Research Scientist at IBM Research at Thomas J. Watson Research Center
   - Liangliang Zhang, Zhuorui Jiang, **Hongliang Chi**, Haoyang Chen, Mohammed Elkoumy, Fali Wang, Qiong Wu, Zhengyi Zhou, Shirui Pan, Suhang Wang, Yao Ma.
   - [Read the paper](https://arxiv.org/pdf/2505.23495)
 
-- [arXiv 2024] **"Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks."**
+- [SIGKDD Exploration] **"Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks."**
   - Qian Ma, **Hongliang Chi**, Hengrui Zhang, Kay Liu, Zhiwei Zhang, Lu Cheng, Suhang Wang, Philip S. Yu, Yao Ma.
   - [Read the paper](https://arxiv.org/pdf/2402.15680.pdf)
  
