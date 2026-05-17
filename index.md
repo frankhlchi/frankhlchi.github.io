@@ -5,9 +5,7 @@ published: true
 ---
 
 ## **About Me**
-
 Hi! I'm a Research Scientist at IBM Research at Thomas J. Watson Research Center, where I use the most advanced tools to optimize anything optimizable, and optimize anything that frontier tools have made optimizable. I received my Ph.D. in CS from RPI under the supervision of [Prof. Yao Ma](https://yaoma24.github.io/). I received a bachelor's degree in Quantitative Business Analysis and Computer Science from the University of Sydney and a master's degree in ORIE from Cornell Tech, Cornell University. I also have work experience at Gap Inc., Cardinal Operations, and EY.
-
 
 - **Email**: <hc962@cornell.edu>
 - **Google Scholar**: [View my publications](https://scholar.google.com/citations?user=Q8S5vXsAAAAJ&hl=en)
@@ -48,62 +46,50 @@ Hi! I'm a Research Scientist at IBM Research at Thomas J. Watson Research Center
 
 
 ## Publications and Preprints
-
 - [ICML 2026 Spotlight🌟] **"Unifying and Optimizing Data Values for Selection via
 Sequential Decision-Making."**
-
   * **Hongliang Chi**, Qiong Wu, Zhengyi Zhou, Jonathan Light, Emily Dodwell, Yao Ma.
   * [Read the paper](https://arxiv.org/pdf/2502.04554.pdf) & [Code](https://github.com/frankhlchi/SequentialDataVal)
 
 - [ICLR 2025] **"Precedence-Constrained Winter Value for Effective Graph Data Valuation."**
-
   * **Hongliang Chi**, Wei Jin, Charu Aggarwal, Yao Ma.
   * [Read the paper](https://arxiv.org/pdf/2402.01943.pdf) & [Code](https://github.com/frankhlchi/graph-data-valuation)
 
 - [ICLR 2025] **"Shapley-Guided Utility Learning for Effective Graph Inference Data Valuation."**
-
   * **Hongliang Chi**, Qiong Wu, Zhengyi Zhou, Yao Ma.
   * [Read the paper](https://openreview.net/pdf?id=8X74NZpARg) & [Code](https://github.com/frankhlchi/infer_data_valuation)
 
 - [SDM 2024] **"Active Learning for Graphs with Noisy Structures."**
-
   * **Hongliang Chi**, Cong Qi, Suhang Wang, Yao Ma.
   * [Read the paper](https://epubs.siam.org/doi/10.1137/1.9781611978032.30) & [Code](https://github.com/frankhlchi/Noisy-Graph-Active-Learning)
 
 - [KDD 2024] **"Enhancing Graph Contrastive Learning with Node Similarity."**
-
   * **Hongliang Chi**, Yao Ma.
   * [Read the paper](https://dl.acm.org/doi/10.1145/3637528.3671898) & [Code](https://github.com/frankhlchi/SimEnhancedGCL)
 
 - [NDSS 2026] **"In-Context Probing for Membership Inference in Fine-Tuned Language Models."**
-
   * Zhexi Lu, **Hongliang Chi**, Nathalie Baracaldo, Swanand Ravindra Kadhe, Yuseok Jeon, Lei Yu.
   * [Read the paper](https://arxiv.org/pdf/2512.16292)
 
 - [NeurIPs 2025] **"Diagnosing and Addressing Pitfalls in KG-RAG Datasets: Toward More Reliable Benchmarking."**
-
   * Liangliang Zhang, Zhuorui Jiang, **Hongliang Chi**, Haoyang Chen, Mohammed Elkoumy, Fali Wang, Qiong Wu, Zhengyi Zhou, Shirui Pan, Suhang Wang, Yao Ma.
   * [Read the paper](https://arxiv.org/pdf/2505.23495)
 
 - [SIGKDD Exploration] **"Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks."**
-
   * Qian Ma, **Hongliang Chi**, Hengrui Zhang, Kay Liu, Zhiwei Zhang, Lu Cheng, Suhang Wang, Philip S. Yu, Yao Ma.
   * [Read the paper](https://arxiv.org/pdf/2402.15680.pdf)
 
 ## Symposiums and Workshops
 
 - [MLG 2023] **"Active Learning for Graphs with Noisy Structures."**
-
   * 19th International Workshop on Mining and Learning with Graphs (MLG 2023).
   * [More Info](https://www.mlgworkshop.org/2023/)
 
 - [SDM Doctoral Forum 2022] **"A General Graph Contrastive Learning Boosting Framework"**
-
   * International Conference on Data Mining (SDM 2022) Doctoral Forum, SIAM, Poster.
   * [More Info](https://www.siam.org/conferences/cm/program/special-events/sdm22-special-events)
 
 ## Awards
-
 - SDM 2025 Honorable Mention Poster Award
 - SDM 2025 Doctoral Forum Travel Award
 - SDM 2024 Doctoral Forum Travel Award
@@ -113,7 +99,6 @@ Sequential Decision-Making."**
 
 
 ## Services
-
 - Reviewer, The International Conference on Learning Representations (ICLR) 2025 - 2026
 - Reviewer, The ACM Web Conference (WWW) 2026
 - Reviewer, Conference on Neural Information Processing Systems (NeurIPS) 2025
@@ -125,7 +110,6 @@ Sequential Decision-Making."**
 
 
 ## Teaching
-
 - Head Teaching Assistant, Machine Learning From Data (CSCI 4100/6100), Fall 2024 RPI
 - Teaching Assistant, CSCI 2600 Principles of Software, Spring 2024 RPI
 - Teaching Assistant, CSCI 1100 Computer Science I, Fall 2023 RPI
@@ -133,14 +117,12 @@ Sequential Decision-Making."**
 
 
 ## Volunteering
-
 - 2022 ACM SIGKDD, Washington DC, U.S., 2022
 - Cornell Course Roster Scheduling under COVID-19 Emergency, 2020
   * Details: Member of Cornell's Roster Team, implemented an optimization model for room scheduling and assignment under COVID-19 capacity constraints. [Read news report](https://www.engineering.cornell.edu/spotlights/unsung-engineering-behind-cornells-fall-2020-schedule).
 
 
 ## Fun Pictures
-
 - Pictures taken at various cities: [Sydney](https://photos.app.goo.gl/gf6ExbMk4cfWhsmG9), [Beijing](https://photos.app.goo.gl/67M7jJfmofBNND6Z6), [New York](https://photos.app.goo.gl/c5b1fhyLY6fseUas8), [San Francisco](https://photos.app.goo.gl/4ovGfWAPAWxnZkGj6), [Other Places](https://photos.app.goo.gl/s8fqbTa21fNrkhqo8)
 - Running Related [Pictures](https://photos.app.goo.gl/tpQHiU43DvBeHLm87), Travel Related [Pictures](https://photos.app.goo.gl/w4JamHcr6cRLCH9c8)
 - A mug for ranking top 3 in a Machine Learning challenge at Cornell (thank you Prof. Nathan Kallus). [Mug Image](https://photos.app.goo.gl/kK7SMGP1oANN9WE97)
