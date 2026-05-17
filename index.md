@@ -6,9 +6,9 @@ published: true
 
 ## **About Me**
 
-Hi! I'm a Research Scientist at IBM Research at Thomas J. Watson Research Center. I received my Ph.D. in Computer Science from Rensselaer Polytechnic Institute (RPI) under the supervision of [Prof. Yao Ma](https://yaoma24.github.io/). I received a bachelor's degree in Quantitative Business Analysis and Computer Science from the University of Sydney and a master's degree in Operations Research and Information Engineering from Cornell Tech, Cornell University. I also have work experience at Gap Inc., Cardinal Operations, and EY.
+Hi! I'm a Research Scientist at IBM Research at Thomas J. Watson Research Center. I received my Ph.D. in Computer Science from RPI under the supervision of [Prof. Yao Ma](https://yaoma24.github.io/). I received a bachelor's degree in Quantitative Business Analysis and Computer Science from the University of Sydney and a master's degree in Operations Research and Information Engineering from Cornell Tech, Cornell University. I also have work experience at Gap Inc., Cardinal Operations, and EY.
 
-<p style="font-family: Georgia, 'Cormorant Garamond', 'Times New Roman', serif; font-style: italic; font-size: 0.95em; line-height: 1.7; color: #666; margin: 1em 0 1.5em;">Use the most advanced tools to optimize anything optimizable, &amp; optimize anything that frontier tools have made optimizable.</p>
+<p style="font-family: Georgia, 'Cormorant Garamond', 'Times New Roman', serif; font-style: italic; font-size: 0.95em; line-height: 1.7; color: #666; margin: 1em 0 1.5em;">I use the most advanced tools to optimize anything optimizable, &amp; optimize anything that frontier tools have made optimizable.</p>
 
 
 - **Email**: <hc962@cornell.edu>
