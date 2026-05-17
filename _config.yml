@@ -1,22 +1,14 @@
 # Site settings
-
 name:  Hongliang Chi (Frank)
-
 # Short bio or description (displayed in the header)
-description: Ph.D. student of Computer Science at Rensselaer Polytechnic Institute (RPI) 
-
+description: Research Scientist at IBM T. J. Watson Research Center
 avatar: https://raw.githubusercontent.com/frankhlchi/frankhlchi.github.io/master/images/bio.jpeg
-
-
 #
 # !! You don't need to change any of the configuration flags below !!
 #
-
 permalink: /:title/
-
 # The release of Jekyll Now that you're using
 version: v1.2.0
-
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
@@ -26,16 +18,13 @@ kramdown:
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
-
 # Set the Sass partials directory, as we're using @imports
 sass:
   style: :expanded # You might prefer to minify using :compressed
-
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
 # Exclude these files from your production _site
 exclude:
   - Gemfile
