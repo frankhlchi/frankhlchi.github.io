@@ -4,9 +4,9 @@ title: Contact
 published: true
 ---
 
-<div style="margin: 1.5em auto 2em; padding: 1em 1em; max-width: 36em; text-align: center; border-top: 1px solid #e0e0e0; border-bottom: 1px solid #e0e0e0; font-family: Georgia, 'Cormorant Garamond', 'Times New Roman', serif; font-style: italic; font-size: 0.95em; line-height: 1.7; color: #555;">
+<div style="margin: 1.5em auto 2em; padding: 0.5em 1em; max-width: 36em; text-align: center; font-family: Georgia, 'Cormorant Garamond', 'Times New Roman', serif; font-style: italic; font-size: 0.95em; line-height: 1.7; color: #666;">
   Use the most advanced tools to optimize anything optimizable,<br>
-  <span style="display: inline-block; margin: 0.3em 0; font-size: 1.3em; color: #999; font-family: Baskerville, Georgia, serif;">&amp;</span><br>
+  <span style="display: inline-block; margin: 0.2em 0; font-size: 1.3em; color: #aaa; font-family: Baskerville, Georgia, serif;">&amp;</span><br>
   optimize anything that frontier tools have made optimizable.
 </div>
 
