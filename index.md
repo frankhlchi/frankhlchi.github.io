@@ -49,7 +49,7 @@ Hi! I'm a Research Scientist at IBM Research at Thomas J. Watson Research Center
 - [ICML 2026 Spotlight🌟] **"Unifying and Optimizing Data Values for Selection via
 Sequential Decision-Making."**
   * **Hongliang Chi**, Qiong Wu, Zhengyi Zhou, Jonathan Light, Emily Dodwell, Yao Ma.
-  * [Read the paper](https://arxiv.org/pdf/2502.04554.pdf) & [Code](https://github.com/frankhlchi/SequentialDataVal)
+  * [Read the paper](https://arxiv.org/pdf/2502.04554.pdf) & [Code](https://github.com/frankhlchi/SeqDataVal)
 
 - [ICLR 2025] **"Precedence-Constrained Winter Value for Effective Graph Data Valuation."**
   * **Hongliang Chi**, Wei Jin, Charu Aggarwal, Yao Ma.
